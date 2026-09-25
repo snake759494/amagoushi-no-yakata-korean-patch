@@ -1,0 +1,6377 @@
+[
+{
+"off": "0xea134",
+"jp": "インテリア雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xea174",
+"jp": "西洋建築がメイン",
+"maxbytes": 319
+},
+{
+"off": "0xea2bd",
+"jp": "『館を訪ねて～古城特集～』",
+"maxbytes": 66
+},
+{
+"off": "0xea310",
+"jp": "古い邸宅を取材している雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xea350",
+"jp": "どうやらこの館が特集された",
+"maxbytes": 63
+},
+{
+"off": "0xea390",
+"jp": "号らしい",
+"maxbytes": 255
+},
+{
+"off": "0xea499",
+"jp": "『週刊リングサイド　増刊号』",
+"maxbytes": 66
+},
+{
+"off": "0xea4ec",
+"jp": "プロレス雑誌の増刊号",
+"maxbytes": 63
+},
+{
+"off": "0xea52c",
+"jp": "マスクマン特集",
+"maxbytes": 319
+},
+{
+"off": "0xea675",
+"jp": "『月刊推理　号外版』",
+"maxbytes": 66
+},
+{
+"off": "0xea6c8",
+"jp": "推理小説誌の特別版",
+"maxbytes": 63
+},
+{
+"off": "0xea708",
+"jp": "高遠延二郎追悼号",
+"maxbytes": 319
+},
+{
+"off": "0xea851",
+"jp": "『あかつきの白いバラ・第５回』",
+"maxbytes": 66
+},
+{
+"off": "0xea8a4",
+"jp": "「あかつきの白いバラ」と",
+"maxbytes": 63
+},
+{
+"off": "0xea8e4",
+"jp": "いうドラマの台本",
+"maxbytes": 63
+},
+{
+"off": "0xea924",
+"jp": "途中で途切れている",
+"maxbytes": 255
+},
+{
+"off": "0xeaa2d",
+"jp": "『週刊ウィザード　Ｎｏ．５』",
+"maxbytes": 66
+},
+{
+"off": "0xeaa80",
+"jp": "魔法使いばかり扱った",
+"maxbytes": 63
+},
+{
+"off": "0xeaac0",
+"jp": "マニアックな雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeab00",
+"jp": "日本特集号",
+"maxbytes": 255
+},
+{
+"off": "0xeac09",
+"jp": "『週刊ウィザード　Ｎｏ．９』",
+"maxbytes": 66
+},
+{
+"off": "0xeac5c",
+"jp": "魔法使いばかり扱った",
+"maxbytes": 63
+},
+{
+"off": "0xeac9c",
+"jp": "マニアックな雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeacdc",
+"jp": "黒魔術特集号",
+"maxbytes": 255
+},
+{
+"off": "0xeade5",
+"jp": "『週刊ウィザード　Ｎｏ．１２』",
+"maxbytes": 66
+},
+{
+"off": "0xeae38",
+"jp": "魔法使いばかり扱った",
+"maxbytes": 63
+},
+{
+"off": "0xeae78",
+"jp": "マニアックな雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeaeb8",
+"jp": "小説のキャラ特集号",
+"maxbytes": 255
+},
+{
+"off": "0xeafc1",
+"jp": "『ザ・ムービースター　４４２号』",
+"maxbytes": 66
+},
+{
+"off": "0xeb014",
+"jp": "映画雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeb054",
+"jp": "吸血鬼映画の撮影現場が",
+"maxbytes": 319
+},
+{
+"off": "0xeb19d",
+"jp": "『またたび放題　８月号』",
+"maxbytes": 66
+},
+{
+"off": "0xeb1f0",
+"jp": "愛猫家雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeb230",
+"jp": "猫の写真だらけ",
+"maxbytes": 63
+},
+{
+"off": "0xeb270",
+"jp": "特集されている",
+"maxbytes": 255
+},
+{
+"off": "0xeb379",
+"jp": "『週刊　アクトレス』",
+"maxbytes": 66
+},
+{
+"off": "0xeb3cc",
+"jp": "芸能雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeb40c",
+"jp": "往年の名女優を特集",
+"maxbytes": 319
+},
+{
+"off": "0xeb555",
+"jp": "『ミステリーの真実　Ｎｏ．７』",
+"maxbytes": 66
+},
+{
+"off": "0xeb5a8",
+"jp": "オカルト系の雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeb5e8",
+"jp": "切り裂きジャック特集",
+"maxbytes": 319
+},
+{
+"off": "0xeb731",
+"jp": "『ミステリーの真実　Ｎｏ．１１』",
+"maxbytes": 66
+},
+{
+"off": "0xeb784",
+"jp": "オカルト系の雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xeb7c4",
+"jp": "ゾディアック特集",
+"maxbytes": 319
+},
+{
+"off": "0xeb90d",
+"jp": "『お父さんの園芸　５月号』",
+"maxbytes": 66
+},
+{
+"off": "0xeb960",
+"jp": "園芸雑誌５月号",
+"maxbytes": 63
+},
+{
+"off": "0xeb9a0",
+"jp": "花壇の手入れ",
+"maxbytes": 319
+},
+{
+"off": "0xebae9",
+"jp": "『お父さんの園芸　６月号』",
+"maxbytes": 66
+},
+{
+"off": "0xebb3c",
+"jp": "園芸雑誌６月号",
+"maxbytes": 63
+},
+{
+"off": "0xebb7c",
+"jp": "サボテン特集",
+"maxbytes": 319
+},
+{
+"off": "0xebcc5",
+"jp": "『月刊　好事家　４月号』",
+"maxbytes": 66
+},
+{
+"off": "0xebd18",
+"jp": "美術品雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xebd58",
+"jp": "絵画の保存方法",
+"maxbytes": 319
+},
+{
+"off": "0xebea1",
+"jp": "『月刊　好事家　２月号』",
+"maxbytes": 66
+},
+{
+"off": "0xebef4",
+"jp": "美術品雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xebf34",
+"jp": "呪術道具特集",
+"maxbytes": 319
+},
+{
+"off": "0xec07d",
+"jp": "『月刊　好事家　１１月号』",
+"maxbytes": 66
+},
+{
+"off": "0xec0d0",
+"jp": "美術品雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xec110",
+"jp": "時計特集",
+"maxbytes": 319
+},
+{
+"off": "0xec259",
+"jp": "「文芸ミステリー１２月号」",
+"maxbytes": 66
+},
+{
+"off": "0xec2ac",
+"jp": "推理小説誌１２月号",
+"maxbytes": 63
+},
+{
+"off": "0xec2ec",
+"jp": "高遠延二郎特集",
+"maxbytes": 319
+},
+{
+"off": "0xec435",
+"jp": "「文芸ミステリー　１月号」",
+"maxbytes": 66
+},
+{
+"off": "0xec488",
+"jp": "推理小説誌１月号",
+"maxbytes": 63
+},
+{
+"off": "0xec4c8",
+"jp": "実際の事件の特集号",
+"maxbytes": 63
+},
+{
+"off": "0xec508",
+"jp": "国内編",
+"maxbytes": 255
+},
+{
+"off": "0xec611",
+"jp": "「文芸ミステリー　２月号」",
+"maxbytes": 66
+},
+{
+"off": "0xec664",
+"jp": "推理小説誌２月号",
+"maxbytes": 63
+},
+{
+"off": "0xec6a4",
+"jp": "実際の事件の特集号",
+"maxbytes": 63
+},
+{
+"off": "0xec6e4",
+"jp": "海外編",
+"maxbytes": 255
+},
+{
+"off": "0xec7ed",
+"jp": "「文芸ミステリー　３月号」",
+"maxbytes": 66
+},
+{
+"off": "0xec840",
+"jp": "推理小説誌３月号",
+"maxbytes": 63
+},
+{
+"off": "0xec880",
+"jp": "意外な作家特集",
+"maxbytes": 319
+},
+{
+"off": "0xec9c9",
+"jp": "「ふわふわぽよん」",
+"maxbytes": 66
+},
+{
+"off": "0xeca1c",
+"jp": "『ふわふわぽよん』",
+"maxbytes": 383
+},
+{
+"off": "0xecba5",
+"jp": "「ふにふにぺこん」",
+"maxbytes": 66
+},
+{
+"off": "0xecbf8",
+"jp": "『ふにふにぺこん』",
+"maxbytes": 383
+},
+{
+"off": "0xecd81",
+"jp": "「ふるふるぷるん」",
+"maxbytes": 66
+},
+{
+"off": "0xecdd4",
+"jp": "『ふるふるぷるん』",
+"maxbytes": 383
+},
+{
+"off": "0xecf5d",
+"jp": "「ふよふよぴこん」",
+"maxbytes": 66
+},
+{
+"off": "0xecfb0",
+"jp": "『ふよふよぴこん』",
+"maxbytes": 383
+},
+{
+"off": "0xed139",
+"jp": "『武器と防具　西洋編』",
+"maxbytes": 66
+},
+{
+"off": "0xed18c",
+"jp": "武器と防具を解説する本",
+"maxbytes": 63
+},
+{
+"off": "0xed1cc",
+"jp": "西洋編",
+"maxbytes": 319
+},
+{
+"off": "0xed315",
+"jp": "『哀しみのマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xed368",
+"jp": "恋愛大河小説の第３弾",
+"maxbytes": 63
+},
+{
+"off": "0xed3a8",
+"jp": "傷心旅行編",
+"maxbytes": 319
+},
+{
+"off": "0xed4f1",
+"jp": "『猟奇事件簿』",
+"maxbytes": 66
+},
+{
+"off": "0xed544",
+"jp": "猟奇犯罪ばかりを集めた",
+"maxbytes": 63
+},
+{
+"off": "0xed584",
+"jp": "ムック本",
+"maxbytes": 319
+},
+{
+"off": "0xed6cd",
+"jp": "『幸せのマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xed720",
+"jp": "恋愛大河小説の第２弾",
+"maxbytes": 63
+},
+{
+"off": "0xed760",
+"jp": "結婚式で何か起きたらしい",
+"maxbytes": 319
+},
+{
+"off": "0xed8a9",
+"jp": "「ＳＡＭＵＲＡＩ　ＮＥＷＳ１」",
+"maxbytes": 66
+},
+{
+"off": "0xed8fc",
+"jp": "時代劇雑誌・１",
+"maxbytes": 63
+},
+{
+"off": "0xed93c",
+"jp": "来春公開の映画特集",
+"maxbytes": 319
+},
+{
+"off": "0xeda85",
+"jp": "「ＳＡＭＵＲＡＩ　ＮＥＷＳ２」",
+"maxbytes": 66
+},
+{
+"off": "0xedad8",
+"jp": "時代劇雑誌・２",
+"maxbytes": 63
+},
+{
+"off": "0xedb18",
+"jp": "定番人気シリーズ特集",
+"maxbytes": 319
+},
+{
+"off": "0xedc61",
+"jp": "「ＳＡＭＵＲＡＩ　ＮＥＷＳ３」",
+"maxbytes": 66
+},
+{
+"off": "0xedcb4",
+"jp": "時代劇雑誌・３",
+"maxbytes": 63
+},
+{
+"off": "0xedcf4",
+"jp": "くノ一特集",
+"maxbytes": 319
+},
+{
+"off": "0xede3d",
+"jp": "「ＳＡＭＵＲＡＩ　ＮＥＷＳ４」",
+"maxbytes": 66
+},
+{
+"off": "0xede90",
+"jp": "時代劇雑誌・４",
+"maxbytes": 63
+},
+{
+"off": "0xeded0",
+"jp": "大部屋俳優特集",
+"maxbytes": 319
+},
+{
+"off": "0xee018",
+"jp": "\n「ＳＡＭＵＲＡＩ　ＮＥＷＳ５」",
+"maxbytes": 67
+},
+{
+"off": "0xee06c",
+"jp": "時代劇雑誌・５",
+"maxbytes": 63
+},
+{
+"off": "0xee0ac",
+"jp": "悪代官特集",
+"maxbytes": 319
+},
+{
+"off": "0xee1f4",
+"jp": "\n「ＳＡＭＵＲＡＩ　ＮＥＷＳ６」",
+"maxbytes": 67
+},
+{
+"off": "0xee248",
+"jp": "時代劇雑誌・６",
+"maxbytes": 63
+},
+{
+"off": "0xee288",
+"jp": "お庭番特集",
+"maxbytes": 319
+},
+{
+"off": "0xee3d0",
+"jp": "\n「ＳＡＭＵＲＡＩ　ＮＥＷＳ７」",
+"maxbytes": 67
+},
+{
+"off": "0xee424",
+"jp": "時代劇雑誌・７",
+"maxbytes": 63
+},
+{
+"off": "0xee464",
+"jp": "奉行所特集",
+"maxbytes": 319
+},
+{
+"off": "0xee5ac",
+"jp": "\n「ＳＡＭＵＲＡＩ　ＮＥＷＳ８」",
+"maxbytes": 67
+},
+{
+"off": "0xee600",
+"jp": "時代劇雑誌・８",
+"maxbytes": 63
+},
+{
+"off": "0xee640",
+"jp": "忠臣蔵特集",
+"maxbytes": 319
+},
+{
+"off": "0xee788",
+"jp": "\n『愛しのマリアンヌ』",
+"maxbytes": 67
+},
+{
+"off": "0xee7dc",
+"jp": "恋愛大河小説",
+"maxbytes": 63
+},
+{
+"off": "0xee81c",
+"jp": "１９世紀のヨーロッパが舞台",
+"maxbytes": 319
+},
+{
+"off": "0xee964",
+"jp": "\n『お父さんになる方法』",
+"maxbytes": 67
+},
+{
+"off": "0xee9b8",
+"jp": "男性用育児入門",
+"maxbytes": 383
+},
+{
+"off": "0xeeb40",
+"jp": "\n『魔法陣とわたし』",
+"maxbytes": 67
+},
+{
+"off": "0xeeb94",
+"jp": "世界中の魔法陣を訪ね歩いた",
+"maxbytes": 63
+},
+{
+"off": "0xeebd4",
+"jp": "人の体験記",
+"maxbytes": 319
+},
+{
+"off": "0xeed1c",
+"jp": "\n『古本屋指南』",
+"maxbytes": 67
+},
+{
+"off": "0xeed70",
+"jp": "上手な古本屋の活用法",
+"maxbytes": 63
+},
+{
+"off": "0xeedb0",
+"jp": "なにか偏っている",
+"maxbytes": 319
+},
+{
+"off": "0xeeef8",
+"jp": "\n『アメフラシ戦記　攻略本』",
+"maxbytes": 67
+},
+{
+"off": "0xeef4c",
+"jp": "アメフラシ戦記という",
+"maxbytes": 63
+},
+{
+"off": "0xeef8c",
+"jp": "ＲＰＧの攻略本",
+"maxbytes": 319
+},
+{
+"off": "0xef0d4",
+"jp": "\n「芸能界-ウワサ99連発-」",
+"maxbytes": 67
+},
+{
+"off": "0xef128",
+"jp": "ゴシップ雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xef168",
+"jp": "帽子屋に関する噂の特集",
+"maxbytes": 319
+},
+{
+"off": "0xef2b0",
+"jp": "\n『暗号解読のススメ』",
+"maxbytes": 67
+},
+{
+"off": "0xef304",
+"jp": "暗号解読についての本",
+"maxbytes": 383
+},
+{
+"off": "0xef48c",
+"jp": "\n『麗しき湖畔の城』",
+"maxbytes": 67
+},
+{
+"off": "0xef4e0",
+"jp": "北欧の恋愛小説",
+"maxbytes": 63
+},
+{
+"off": "0xef520",
+"jp": "同名のクラッシック曲が",
+"maxbytes": 63
+},
+{
+"off": "0xef560",
+"jp": "題材らしい",
+"maxbytes": 255
+},
+{
+"off": "0xef669",
+"jp": "『脚立のすべて』",
+"maxbytes": 66
+},
+{
+"off": "0xef6bc",
+"jp": "脚立の写真集",
+"maxbytes": 383
+},
+{
+"off": "0xef845",
+"jp": "『闇の紳士録』",
+"maxbytes": 66
+},
+{
+"off": "0xef898",
+"jp": "怖い伝説のある家の",
+"maxbytes": 63
+},
+{
+"off": "0xef8d8",
+"jp": "紳士録",
+"maxbytes": 319
+},
+{
+"off": "0xefa21",
+"jp": "『血塗られた館』",
+"maxbytes": 66
+},
+{
+"off": "0xefa74",
+"jp": "アメリカのホラー小説",
+"maxbytes": 63
+},
+{
+"off": "0xefab4",
+"jp": "ベストセラーらしい",
+"maxbytes": 319
+},
+{
+"off": "0xefbfd",
+"jp": "『きらめきのマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xefc50",
+"jp": "恋愛大河小説第４弾",
+"maxbytes": 63
+},
+{
+"off": "0xefc90",
+"jp": "灼熱のインド編",
+"maxbytes": 319
+},
+{
+"off": "0xefdd9",
+"jp": "『世界オカルト伝承』",
+"maxbytes": 66
+},
+{
+"off": "0xefe2c",
+"jp": "ルロイ伯爵とその館に",
+"maxbytes": 63
+},
+{
+"off": "0xefe6c",
+"jp": "ついての特集号",
+"maxbytes": 63
+},
+{
+"off": "0xefeac",
+"jp": "何か仕掛けのある館が",
+"maxbytes": 63
+},
+{
+"off": "0xefeec",
+"jp": "日本にあるらしい…",
+"maxbytes": 191
+},
+{
+"off": "0xeffb5",
+"jp": "『戸惑いのマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xf0008",
+"jp": "恋愛大河小説第５弾",
+"maxbytes": 63
+},
+{
+"off": "0xf0048",
+"jp": "続・インド編",
+"maxbytes": 319
+},
+{
+"off": "0xf0191",
+"jp": "『古い家』",
+"maxbytes": 66
+},
+{
+"off": "0xf01e4",
+"jp": "デザイナーのエッセイ",
+"maxbytes": 63
+},
+{
+"off": "0xf0224",
+"jp": "古い家が好きらしい",
+"maxbytes": 319
+},
+{
+"off": "0xf036d",
+"jp": "『隠し扉という浪漫』",
+"maxbytes": 66
+},
+{
+"off": "0xf03c0",
+"jp": "隠し扉や秘密の通路を",
+"maxbytes": 63
+},
+{
+"off": "0xf0400",
+"jp": "訪ねて回ったエッセイ集",
+"maxbytes": 319
+},
+{
+"off": "0xf0549",
+"jp": "『ため息のマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xf059c",
+"jp": "恋愛大河小説第６弾",
+"maxbytes": 63
+},
+{
+"off": "0xf05dc",
+"jp": "続々インド編",
+"maxbytes": 319
+},
+{
+"off": "0xf0725",
+"jp": "『手こねハンバーグのすべて』",
+"maxbytes": 66
+},
+{
+"off": "0xf0778",
+"jp": "手こねハンバーグの",
+"maxbytes": 63
+},
+{
+"off": "0xf07b8",
+"jp": "作り方の本",
+"maxbytes": 319
+},
+{
+"off": "0xf0901",
+"jp": "『ＮＥＣＲＯＮＯＭＩＣＯＮ』",
+"maxbytes": 66
+},
+{
+"off": "0xf0954",
+"jp": "読めない。",
+"maxbytes": 63
+},
+{
+"off": "0xf0994",
+"jp": "何語なのかも謎",
+"maxbytes": 319
+},
+{
+"off": "0xf0add",
+"jp": "『ふたりのマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xf0b30",
+"jp": "恋愛大河小説第６弾",
+"maxbytes": 63
+},
+{
+"off": "0xf0b70",
+"jp": "懐かしの故郷編",
+"maxbytes": 319
+},
+{
+"off": "0xf0cb9",
+"jp": "『忌み嫌われる秘訣』",
+"maxbytes": 66
+},
+{
+"off": "0xf0d0c",
+"jp": "評判の悪い質屋の店主が",
+"maxbytes": 63
+},
+{
+"off": "0xf0d4c",
+"jp": "変死体で発見された話",
+"maxbytes": 63
+},
+{
+"off": "0xf0d8c",
+"jp": "現場には高価な壺と奇妙な",
+"maxbytes": 63
+},
+{
+"off": "0xf0dcc",
+"jp": "形の壺があったらしい",
+"maxbytes": 191
+},
+{
+"off": "0xf0e95",
+"jp": "『名探偵には苦労する』",
+"maxbytes": 66
+},
+{
+"off": "0xf0ee8",
+"jp": "高遠延二郎のエッセイ集",
+"maxbytes": 63
+},
+{
+"off": "0xf0f28",
+"jp": "名探偵物は涼介シリーズで",
+"maxbytes": 63
+},
+{
+"off": "0xf0f68",
+"jp": "初めて書いたのに一番の",
+"maxbytes": 63
+},
+{
+"off": "0xf0fa8",
+"jp": "ヒット作になったらしい",
+"maxbytes": 191
+},
+{
+"off": "0xf1071",
+"jp": "『静かなる殺意』",
+"maxbytes": 66
+},
+{
+"off": "0xf10c4",
+"jp": "温泉宿で宿泊客が殺された",
+"maxbytes": 63
+},
+{
+"off": "0xf1104",
+"jp": "という事件",
+"maxbytes": 63
+},
+{
+"off": "0xf1144",
+"jp": "日本刀だけが手がかり",
+"maxbytes": 255
+},
+{
+"off": "0xf124d",
+"jp": "『猫と初雪』",
+"maxbytes": 66
+},
+{
+"off": "0xf12a0",
+"jp": "波積という男が植木鉢で",
+"maxbytes": 63
+},
+{
+"off": "0xf12e0",
+"jp": "撲殺された事件",
+"maxbytes": 63
+},
+{
+"off": "0xf1320",
+"jp": "現場への足跡は本人と猫の",
+"maxbytes": 63
+},
+{
+"off": "0xf1360",
+"jp": "ものしか残っていなかった",
+"maxbytes": 191
+},
+{
+"off": "0xf1429",
+"jp": "「黒猫の毒」",
+"maxbytes": 66
+},
+{
+"off": "0xf147c",
+"jp": "斑井重雄という人物が",
+"maxbytes": 63
+},
+{
+"off": "0xf14bc",
+"jp": "誰も渡れないはずの展望室",
+"maxbytes": 63
+},
+{
+"off": "0xf14fc",
+"jp": "で殺害されており現場には",
+"maxbytes": 63
+},
+{
+"off": "0xf153c",
+"jp": "黒猫だけがいた",
+"maxbytes": 63
+},
+{
+"off": "0xf157c",
+"jp": "白蛇殺人事件も同時収録",
+"maxbytes": 127
+},
+{
+"off": "0xf1605",
+"jp": "『灰色の仮面』",
+"maxbytes": 66
+},
+{
+"off": "0xf1658",
+"jp": "元伯爵の家に奇妙な仮面の",
+"maxbytes": 63
+},
+{
+"off": "0xf1698",
+"jp": "男が現れる事件",
+"maxbytes": 63
+},
+{
+"off": "0xf16d8",
+"jp": "長男の黒園龍哉が殺される",
+"maxbytes": 255
+},
+{
+"off": "0xf17e1",
+"jp": "『桔梗亭事件』",
+"maxbytes": 66
+},
+{
+"off": "0xf1834",
+"jp": "小料理屋「桔梗亭」の料理",
+"maxbytes": 63
+},
+{
+"off": "0xf1874",
+"jp": "人が絞殺された事件",
+"maxbytes": 63
+},
+{
+"off": "0xf18b4",
+"jp": "復員直後の日織が涼介と",
+"maxbytes": 63
+},
+{
+"off": "0xf18f4",
+"jp": "再開する場面から始まる",
+"maxbytes": 191
+},
+{
+"off": "0xf19bd",
+"jp": "『古折家の悪夢』",
+"maxbytes": 66
+},
+{
+"off": "0xf1a10",
+"jp": "古折みづえという女性が",
+"maxbytes": 63
+},
+{
+"off": "0xf1a50",
+"jp": "行方不明の父の捜索を依頼",
+"maxbytes": 63
+},
+{
+"off": "0xf1a90",
+"jp": "するも本人がそのまま行方",
+"maxbytes": 63
+},
+{
+"off": "0xf1ad0",
+"jp": "不明になってしまう事件",
+"maxbytes": 191
+},
+{
+"off": "0xf1b99",
+"jp": "『鬼の密室』",
+"maxbytes": 66
+},
+{
+"off": "0xf1bec",
+"jp": "避暑地で知り合った佐伯と",
+"maxbytes": 63
+},
+{
+"off": "0xf1c2c",
+"jp": "いう老人が刺殺される事件",
+"maxbytes": 319
+},
+{
+"off": "0xf1d75",
+"jp": "『迷宮の陰り』",
+"maxbytes": 66
+},
+{
+"off": "0xf1dc8",
+"jp": "差出人の名前もない手紙が",
+"maxbytes": 63
+},
+{
+"off": "0xf1e08",
+"jp": "届き、助けを求められる",
+"maxbytes": 63
+},
+{
+"off": "0xf1e48",
+"jp": "「祭りのあと」も同時収録",
+"maxbytes": 255
+},
+{
+"off": "0xf1f51",
+"jp": "『死神の鎌』",
+"maxbytes": 66
+},
+{
+"off": "0xf1fa4",
+"jp": "暁生という無名画家の家で",
+"maxbytes": 63
+},
+{
+"off": "0xf1fe4",
+"jp": "首なし死体が発見される",
+"maxbytes": 63
+},
+{
+"off": "0xf2024",
+"jp": "死体の側には死神の絵",
+"maxbytes": 63
+},
+{
+"off": "0xf2064",
+"jp": "現場では黒マントの男が",
+"maxbytes": 63
+},
+{
+"off": "0xf20a4",
+"jp": "目撃されていた",
+"maxbytes": 127
+},
+{
+"off": "0xf212d",
+"jp": "『小鳥を飼う女』",
+"maxbytes": 66
+},
+{
+"off": "0xf2180",
+"jp": "小鳥を飼う女性の部屋で",
+"maxbytes": 63
+},
+{
+"off": "0xf21c0",
+"jp": "殺人を目撃したと訴える",
+"maxbytes": 63
+},
+{
+"off": "0xf2200",
+"jp": "男性の話",
+"maxbytes": 63
+},
+{
+"off": "0xf2240",
+"jp": "中編三本が収録されている",
+"maxbytes": 191
+},
+{
+"off": "0xf2309",
+"jp": "『名も無き悪魔』",
+"maxbytes": 66
+},
+{
+"off": "0xf235c",
+"jp": "誰かに見張られている気が",
+"maxbytes": 63
+},
+{
+"off": "0xf239c",
+"jp": "する、と訴えていた滝重と",
+"maxbytes": 63
+},
+{
+"off": "0xf23dc",
+"jp": "いう男性が忽然と姿を消す",
+"maxbytes": 255
+},
+{
+"off": "0xf24e5",
+"jp": "『人形は笑う』",
+"maxbytes": 66
+},
+{
+"off": "0xf2538",
+"jp": "錐で首を刺されて殺される",
+"maxbytes": 63
+},
+{
+"off": "0xf2578",
+"jp": "連続殺人事件",
+"maxbytes": 63
+},
+{
+"off": "0xf25b8",
+"jp": "現場には古い人形とともに",
+"maxbytes": 63
+},
+{
+"off": "0xf25f8",
+"jp": "呪われろというメッセージ",
+"maxbytes": 63
+},
+{
+"off": "0xf2638",
+"jp": "が残されている",
+"maxbytes": 127
+},
+{
+"off": "0xf26c1",
+"jp": "『北速水涼介の冒険』",
+"maxbytes": 66
+},
+{
+"off": "0xf2714",
+"jp": "涼介シリーズの短編集",
+"maxbytes": 63
+},
+{
+"off": "0xf2754",
+"jp": "「朝顔の罪」",
+"maxbytes": 63
+},
+{
+"off": "0xf2794",
+"jp": "「扉の嫌いな男」",
+"maxbytes": 63
+},
+{
+"off": "0xf27d4",
+"jp": "「爪」などが収録",
+"maxbytes": 191
+},
+{
+"off": "0xf289d",
+"jp": "『正しいマリモの育て方』",
+"maxbytes": 66
+},
+{
+"off": "0xf28f0",
+"jp": "マリモの飼育方法が詳しく",
+"maxbytes": 63
+},
+{
+"off": "0xf2930",
+"jp": "書かれた本",
+"maxbytes": 63
+},
+{
+"off": "0xf2970",
+"jp": "著者は高遠氏ではない",
+"maxbytes": 255
+},
+{
+"off": "0xf2a79",
+"jp": "『呪われた刺青』",
+"maxbytes": 66
+},
+{
+"off": "0xf2acc",
+"jp": "有名な彫り師の刺青をもつ",
+"maxbytes": 63
+},
+{
+"off": "0xf2b0c",
+"jp": "者が次々怪死するという話",
+"maxbytes": 319
+},
+{
+"off": "0xf2c55",
+"jp": "『壺の中の謎』",
+"maxbytes": 66
+},
+{
+"off": "0xf2ca8",
+"jp": "調査を依頼してきた古物商",
+"maxbytes": 63
+},
+{
+"off": "0xf2ce8",
+"jp": "小此木が、自分の店にある",
+"maxbytes": 63
+},
+{
+"off": "0xf2d28",
+"jp": "大きな壺の中から首だけに",
+"maxbytes": 63
+},
+{
+"off": "0xf2d68",
+"jp": "なって発見される事件",
+"maxbytes": 191
+},
+{
+"off": "0xf2e31",
+"jp": "『湖畔の館』",
+"maxbytes": 66
+},
+{
+"off": "0xf2e84",
+"jp": "雑誌記者の那須信とともに",
+"maxbytes": 63
+},
+{
+"off": "0xf2ec4",
+"jp": "訪れた館での連続殺人。",
+"maxbytes": 63
+},
+{
+"off": "0xf2f04",
+"jp": "現場には常に脈絡のない品",
+"maxbytes": 63
+},
+{
+"off": "0xf2f44",
+"jp": "がいくつも残されている。",
+"maxbytes": 191
+},
+{
+"off": "0xf300d",
+"jp": "『忘れじの島』",
+"maxbytes": 66
+},
+{
+"off": "0xf3060",
+"jp": "ともえという名の女性から",
+"maxbytes": 63
+},
+{
+"off": "0xf30a0",
+"jp": "古い地図だけが入った手紙",
+"maxbytes": 63
+},
+{
+"off": "0xf30e0",
+"jp": "が届く",
+"maxbytes": 63
+},
+{
+"off": "0xf3120",
+"jp": "涼介達は地図を頼りに",
+"maxbytes": 63
+},
+{
+"off": "0xf3160",
+"jp": "瀬戸内海へ向かう",
+"maxbytes": 127
+},
+{
+"off": "0xf31e9",
+"jp": "『白昼の惨劇』",
+"maxbytes": 66
+},
+{
+"off": "0xf323c",
+"jp": "通り魔事件の容疑者が",
+"maxbytes": 63
+},
+{
+"off": "0xf327c",
+"jp": "首なし死体で発見される",
+"maxbytes": 63
+},
+{
+"off": "0xf32bc",
+"jp": "困った陣野警部が涼介に",
+"maxbytes": 63
+},
+{
+"off": "0xf32fc",
+"jp": "調査を依頼してくる",
+"maxbytes": 191
+},
+{
+"off": "0xf33c5",
+"jp": "『檻の中の女』",
+"maxbytes": 66
+},
+{
+"off": "0xf3418",
+"jp": "御陵香織という白い日傘",
+"maxbytes": 63
+},
+{
+"off": "0xf3458",
+"jp": "をさした女性が地下の檻",
+"maxbytes": 63
+},
+{
+"off": "0xf3498",
+"jp": "の中で殺害されていた",
+"maxbytes": 255
+},
+{
+"off": "0xf35a1",
+"jp": "『降ってきた死体』",
+"maxbytes": 66
+},
+{
+"off": "0xf35f4",
+"jp": "日織が勤め先の屋上で",
+"maxbytes": 63
+},
+{
+"off": "0xf3634",
+"jp": "女の変死体を発見",
+"maxbytes": 63
+},
+{
+"off": "0xf3674",
+"jp": "殺人容疑を掛けられた日織",
+"maxbytes": 63
+},
+{
+"off": "0xf36b4",
+"jp": "の疑いを解く涼介",
+"maxbytes": 191
+},
+{
+"off": "0xf377d",
+"jp": "『迷い子事件』",
+"maxbytes": 66
+},
+{
+"off": "0xf37d0",
+"jp": "日織が迷子の少女を拾って",
+"maxbytes": 63
+},
+{
+"off": "0xf3810",
+"jp": "しまって途方にくれる話",
+"maxbytes": 319
+},
+{
+"off": "0xf3959",
+"jp": "『蝋燭と林檎』",
+"maxbytes": 66
+},
+{
+"off": "0xf39ac",
+"jp": "蝋燭を握り締めた死体と",
+"maxbytes": 63
+},
+{
+"off": "0xf39ec",
+"jp": "林檎を握り締めた死体の",
+"maxbytes": 63
+},
+{
+"off": "0xf3a2c",
+"jp": "謎を追う話",
+"maxbytes": 255
+},
+{
+"off": "0xf3b35",
+"jp": "『禁じられた祈り』",
+"maxbytes": 66
+},
+{
+"off": "0xf3b88",
+"jp": "怪しげな宗教家の館で、",
+"maxbytes": 63
+},
+{
+"off": "0xf3bc8",
+"jp": "信者が殺害された事件",
+"maxbytes": 63
+},
+{
+"off": "0xf3c08",
+"jp": "日織は神社の息子らしい",
+"maxbytes": 255
+},
+{
+"off": "0xf3d11",
+"jp": "『燃え尽きた罪』",
+"maxbytes": 66
+},
+{
+"off": "0xf3d64",
+"jp": "駆け落ちした姉を探して",
+"maxbytes": 63
+},
+{
+"off": "0xf3da4",
+"jp": "ほしいという依頼人",
+"maxbytes": 63
+},
+{
+"off": "0xf3de4",
+"jp": "しかし依頼人も姿を消し",
+"maxbytes": 63
+},
+{
+"off": "0xf3e24",
+"jp": "どちらともわからない",
+"maxbytes": 63
+},
+{
+"off": "0xf3e64",
+"jp": "焼死体が発見される事件",
+"maxbytes": 127
+},
+{
+"off": "0xf3eed",
+"jp": "『ひそやかな毒薬』",
+"maxbytes": 66
+},
+{
+"off": "0xf3f40",
+"jp": "空き地に放置された自動車",
+"maxbytes": 63
+},
+{
+"off": "0xf3f80",
+"jp": "から男女の服毒心中死体が",
+"maxbytes": 63
+},
+{
+"off": "0xf3fc0",
+"jp": "発見される事件",
+"maxbytes": 255
+},
+{
+"off": "0xf40c9",
+"jp": "『忌まわしい花』",
+"maxbytes": 66
+},
+{
+"off": "0xf411c",
+"jp": "密室の中で暗石丈治という",
+"maxbytes": 63
+},
+{
+"off": "0xf415c",
+"jp": "男が射殺される事件",
+"maxbytes": 63
+},
+{
+"off": "0xf419c",
+"jp": "現場には誰が持ち込んだか",
+"maxbytes": 63
+},
+{
+"off": "0xf41dc",
+"jp": "わからない薔薇の花束が",
+"maxbytes": 191
+},
+{
+"off": "0xf42a5",
+"jp": "『吹雪の山荘事件』",
+"maxbytes": 66
+},
+{
+"off": "0xf42f8",
+"jp": "幽霊が出るという噂の",
+"maxbytes": 63
+},
+{
+"off": "0xf4338",
+"jp": "部屋で密室殺人が起きる",
+"maxbytes": 63
+},
+{
+"off": "0xf4378",
+"jp": "という話",
+"maxbytes": 255
+},
+{
+"off": "0xf4481",
+"jp": "『今宵、悪魔が』",
+"maxbytes": 66
+},
+{
+"off": "0xf44d4",
+"jp": "涼介のもとに犯罪予告の",
+"maxbytes": 63
+},
+{
+"off": "0xf4514",
+"jp": "ような手紙が届く",
+"maxbytes": 63
+},
+{
+"off": "0xf4554",
+"jp": "そして予告どおり涼介の",
+"maxbytes": 63
+},
+{
+"off": "0xf4594",
+"jp": "名刺を持った惨殺死体が",
+"maxbytes": 63
+},
+{
+"off": "0xf45d4",
+"jp": "発見されるという事件",
+"maxbytes": 127
+},
+{
+"off": "0xf465d",
+"jp": "『７枚の絵札』",
+"maxbytes": 66
+},
+{
+"off": "0xf46b0",
+"jp": "謎の人物からトランプの",
+"maxbytes": 63
+},
+{
+"off": "0xf46f0",
+"jp": "絵札が毎日１枚ずつ送られ",
+"maxbytes": 63
+},
+{
+"off": "0xf4730",
+"jp": "てくる、という事件",
+"maxbytes": 255
+},
+{
+"off": "0xf4839",
+"jp": "『さらわれた猫』",
+"maxbytes": 66
+},
+{
+"off": "0xf488c",
+"jp": "猫探しという普段なら",
+"maxbytes": 63
+},
+{
+"off": "0xf48cc",
+"jp": "絶対受けそうにない依頼を",
+"maxbytes": 63
+},
+{
+"off": "0xf490c",
+"jp": "見かけどおりの事件では",
+"maxbytes": 63
+},
+{
+"off": "0xf494c",
+"jp": "ないと引き受ける涼介",
+"maxbytes": 191
+},
+{
+"off": "0xf4a15",
+"jp": "『海中の殺意』",
+"maxbytes": 66
+},
+{
+"off": "0xf4a68",
+"jp": "静養のため訪れた神戸で",
+"maxbytes": 63
+},
+{
+"off": "0xf4aa8",
+"jp": "また事件に巻き込まれる話",
+"maxbytes": 319
+},
+{
+"off": "0xf4bf1",
+"jp": "『花魁はなぜ殺される』",
+"maxbytes": 66
+},
+{
+"off": "0xf4c44",
+"jp": "失踪した女優が舞台の上で",
+"maxbytes": 63
+},
+{
+"off": "0xf4c84",
+"jp": "花魁の衣装を着たまま殺害",
+"maxbytes": 63
+},
+{
+"off": "0xf4cc4",
+"jp": "されていたという事件",
+"maxbytes": 255
+},
+{
+"off": "0xf4dcd",
+"jp": "『毒にも薬にも』",
+"maxbytes": 66
+},
+{
+"off": "0xf4e20",
+"jp": "風邪を引いて病院に行った",
+"maxbytes": 63
+},
+{
+"off": "0xf4e60",
+"jp": "日織の隣で突然苦しみだし",
+"maxbytes": 63
+},
+{
+"off": "0xf4ea0",
+"jp": "男が死んでしまう事件",
+"maxbytes": 255
+},
+{
+"off": "0xf4fa9",
+"jp": "『死者からの脅迫』",
+"maxbytes": 66
+},
+{
+"off": "0xf4ffc",
+"jp": "自分が死んだら犯人は渋蔵",
+"maxbytes": 63
+},
+{
+"off": "0xf503c",
+"jp": "という男だ、と言い残して",
+"maxbytes": 63
+},
+{
+"off": "0xf507c",
+"jp": "絞殺された男",
+"maxbytes": 63
+},
+{
+"off": "0xf50bc",
+"jp": "しかし渋蔵も２０年も前に",
+"maxbytes": 63
+},
+{
+"off": "0xf50fc",
+"jp": "死亡していた",
+"maxbytes": 127
+},
+{
+"off": "0xf5185",
+"jp": "『増刊　探偵症候群』",
+"maxbytes": 66
+},
+{
+"off": "0xf51d8",
+"jp": "高遠氏のホラー物の短編が",
+"maxbytes": 63
+},
+{
+"off": "0xf5218",
+"jp": "掲載されている雑誌",
+"maxbytes": 319
+},
+{
+"off": "0xf5361",
+"jp": "『桜の木の下に』",
+"maxbytes": 66
+},
+{
+"off": "0xf53b4",
+"jp": "桜の下に自分が埋まって",
+"maxbytes": 63
+},
+{
+"off": "0xf53f4",
+"jp": "いる、という不気味な電話",
+"maxbytes": 63
+},
+{
+"off": "0xf5434",
+"jp": "を受けた日織",
+"maxbytes": 63
+},
+{
+"off": "0xf5474",
+"jp": "涼介に相談し木の下を",
+"maxbytes": 63
+},
+{
+"off": "0xf54b4",
+"jp": "掘ると本当に死体が・・・",
+"maxbytes": 127
+},
+{
+"off": "0xf553d",
+"jp": "『佐平次捕物帖』",
+"maxbytes": 66
+},
+{
+"off": "0xf5590",
+"jp": "高遠氏の書いた唯一の",
+"maxbytes": 63
+},
+{
+"off": "0xf55d0",
+"jp": "捕り物帖",
+"maxbytes": 319
+},
+{
+"off": "0xf5719",
+"jp": "『兎は知っている』",
+"maxbytes": 66
+},
+{
+"off": "0xf576c",
+"jp": "飼っている兎だけを偏愛",
+"maxbytes": 63
+},
+{
+"off": "0xf57ac",
+"jp": "する奇妙な貴婦人が脅迫を",
+"maxbytes": 63
+},
+{
+"off": "0xf57ec",
+"jp": "受けていると涼介に相談",
+"maxbytes": 255
+},
+{
+"off": "0xf58f5",
+"jp": "『指』",
+"maxbytes": 66
+},
+{
+"off": "0xf5948",
+"jp": "両手の小指が切り取られた",
+"maxbytes": 63
+},
+{
+"off": "0xf5988",
+"jp": "死体が発見される事件",
+"maxbytes": 63
+},
+{
+"off": "0xf59c8",
+"jp": "表題作ほか６本の短編が",
+"maxbytes": 63
+},
+{
+"off": "0xf5a08",
+"jp": "同時収録",
+"maxbytes": 191
+},
+{
+"off": "0xf5ad1",
+"jp": "『予告された殺人』",
+"maxbytes": 66
+},
+{
+"off": "0xf5b24",
+"jp": "命を狙われていると電話で",
+"maxbytes": 63
+},
+{
+"off": "0xf5b64",
+"jp": "訴えてきた依頼人が涼介の",
+"maxbytes": 63
+},
+{
+"off": "0xf5ba4",
+"jp": "事務所へつく前に殺され、",
+"maxbytes": 63
+},
+{
+"off": "0xf5be4",
+"jp": "連続殺人に発展する話",
+"maxbytes": 191
+},
+{
+"off": "0xf5cad",
+"jp": "『隠信洞の秘密』",
+"maxbytes": 66
+},
+{
+"off": "0xf5d00",
+"jp": "隠れキリシタンが社を隠し",
+"maxbytes": 63
+},
+{
+"off": "0xf5d40",
+"jp": "ていたという洞窟に調査に",
+"maxbytes": 63
+},
+{
+"off": "0xf5d80",
+"jp": "行ったまま戻らない記者が",
+"maxbytes": 63
+},
+{
+"off": "0xf5dc0",
+"jp": "洞窟内で撲殺されていた",
+"maxbytes": 191
+},
+{
+"off": "0xf5e89",
+"jp": "『死者の歌声』",
+"maxbytes": 66
+},
+{
+"off": "0xf5edc",
+"jp": "場末のバーで歌っていた",
+"maxbytes": 63
+},
+{
+"off": "0xf5f1c",
+"jp": "歌手が絞殺され同棲相手が",
+"maxbytes": 63
+},
+{
+"off": "0xf5f5c",
+"jp": "行方不明になる事件",
+"maxbytes": 255
+},
+{
+"off": "0xf6065",
+"jp": "『呪いの花嫁』",
+"maxbytes": 66
+},
+{
+"off": "0xf60b8",
+"jp": "高遠氏の書いたホラー長編",
+"maxbytes": 63
+},
+{
+"off": "0xf60f8",
+"jp": "涼介シリーズではない",
+"maxbytes": 319
+},
+{
+"off": "0xf6241",
+"jp": "『鐘楼館の殺人』",
+"maxbytes": 66
+},
+{
+"off": "0xf6294",
+"jp": "開かずの棺の中から奇妙な",
+"maxbytes": 63
+},
+{
+"off": "0xf62d4",
+"jp": "杖とともに当主【椿の遺体】",
+"maxbytes": 63
+},
+{
+"off": "0xf6314",
+"jp": "が発見される事件",
+"maxbytes": 255
+},
+{
+"off": "0xf641d",
+"jp": "『死舞台』",
+"maxbytes": 66
+},
+{
+"off": "0xf6470",
+"jp": "涼介が訪れていた劇場で",
+"maxbytes": 63
+},
+{
+"off": "0xf64b0",
+"jp": "舞台上の女優が突然血を",
+"maxbytes": 63
+},
+{
+"off": "0xf64f0",
+"jp": "吐いて死亡する事件",
+"maxbytes": 63
+},
+{
+"off": "0xf6530",
+"jp": "表題作ほか２編収録",
+"maxbytes": 191
+},
+{
+"off": "0xf65f9",
+"jp": "『高遠延二郎著作解説』",
+"maxbytes": 66
+},
+{
+"off": "0xf664c",
+"jp": "北速水涼介シリーズの",
+"maxbytes": 63
+},
+{
+"off": "0xf668c",
+"jp": "発表年代順一覧",
+"maxbytes": 319
+},
+{
+"off": "0xf67d5",
+"jp": "『絵の中の死』",
+"maxbytes": 66
+},
+{
+"off": "0xf6828",
+"jp": "画廊の店主が呪われている",
+"maxbytes": 63
+},
+{
+"off": "0xf6868",
+"jp": "と言った絵のモデルに",
+"maxbytes": 63
+},
+{
+"off": "0xf68a8",
+"jp": "なった少女が首吊り死体で",
+"maxbytes": 63
+},
+{
+"off": "0xf68e8",
+"jp": "発見される事件",
+"maxbytes": 191
+},
+{
+"off": "0xf69b1",
+"jp": "『時計』",
+"maxbytes": 66
+},
+{
+"off": "0xf6a04",
+"jp": "時効寸前の強盗事件の話",
+"maxbytes": 63
+},
+{
+"off": "0xf6a44",
+"jp": "犯人はなぜか金銭以外に、",
+"maxbytes": 63
+},
+{
+"off": "0xf6a84",
+"jp": "掛け時計を２つ持ち去って",
+"maxbytes": 63
+},
+{
+"off": "0xf6ac4",
+"jp": "いた",
+"maxbytes": 191
+},
+{
+"off": "0xf6b8d",
+"jp": "『ここに我が罪を記す』",
+"maxbytes": 66
+},
+{
+"off": "0xf6be0",
+"jp": "人を殺して埋めたという",
+"maxbytes": 63
+},
+{
+"off": "0xf6c20",
+"jp": "告白をつづった日記に記さ",
+"maxbytes": 63
+},
+{
+"off": "0xf6c60",
+"jp": "れた現場へ調査へ行くと",
+"maxbytes": 63
+},
+{
+"off": "0xf6ca0",
+"jp": "女の生首を発見する事件",
+"maxbytes": 191
+},
+{
+"off": "0xf6d69",
+"jp": "『既に死んでいた男』",
+"maxbytes": 66
+},
+{
+"off": "0xf6dbc",
+"jp": "淡路島へ向かう船上から",
+"maxbytes": 63
+},
+{
+"off": "0xf6dfc",
+"jp": "転落した男は助けられた時",
+"maxbytes": 63
+},
+{
+"off": "0xf6e3c",
+"jp": "には刺殺されていたという",
+"maxbytes": 63
+},
+{
+"off": "0xf6e7c",
+"jp": "事件",
+"maxbytes": 191
+},
+{
+"off": "0xf6f45",
+"jp": "『悪魔の花園』",
+"maxbytes": 66
+},
+{
+"off": "0xf6f98",
+"jp": "静奈、鈴奈という双子が",
+"maxbytes": 63
+},
+{
+"off": "0xf6fd8",
+"jp": "登場する事件",
+"maxbytes": 63
+},
+{
+"off": "0xf7018",
+"jp": "妹の鈴奈が花嫁衣装を",
+"maxbytes": 63
+},
+{
+"off": "0xf7058",
+"jp": "着て斧で惨殺される",
+"maxbytes": 191
+},
+{
+"off": "0xf7121",
+"jp": "『日織諒の憂鬱』",
+"maxbytes": 66
+},
+{
+"off": "0xf7174",
+"jp": "涼介に電話で指示された",
+"maxbytes": 63
+},
+{
+"off": "0xf71b4",
+"jp": "調査に翻弄される日織",
+"maxbytes": 63
+},
+{
+"off": "0xf71f4",
+"jp": "珍しく涼介本人が登場",
+"maxbytes": 63
+},
+{
+"off": "0xf7234",
+"jp": "しない中編",
+"maxbytes": 191
+},
+{
+"off": "0xf72fd",
+"jp": "『瀬戸内海に抱かれて』",
+"maxbytes": 66
+},
+{
+"off": "0xf7350",
+"jp": "高遠氏が書いた唯一の",
+"maxbytes": 63
+},
+{
+"off": "0xf7390",
+"jp": "恋愛小説",
+"maxbytes": 319
+},
+{
+"off": "0xf74d9",
+"jp": "「息子」",
+"maxbytes": 66
+},
+{
+"off": "0xf752c",
+"jp": "高遠延二郎のエッセイ",
+"maxbytes": 63
+},
+{
+"off": "0xf756c",
+"jp": "日常の出来事と家族の話",
+"maxbytes": 63
+},
+{
+"off": "0xf75ac",
+"jp": "が中心",
+"maxbytes": 255
+},
+{
+"off": "0xf76b5",
+"jp": "「孫」",
+"maxbytes": 66
+},
+{
+"off": "0xf7708",
+"jp": "高遠延二郎の日常エッセイ",
+"maxbytes": 63
+},
+{
+"off": "0xf7748",
+"jp": "第二弾",
+"maxbytes": 63
+},
+{
+"off": "0xf7788",
+"jp": "孫自慢日記と化している",
+"maxbytes": 255
+},
+{
+"off": "0xf7891",
+"jp": "「孫２」",
+"maxbytes": 66
+},
+{
+"off": "0xf78e4",
+"jp": "高遠延二郎の日常エッセイ",
+"maxbytes": 63
+},
+{
+"off": "0xf7924",
+"jp": "第三弾",
+"maxbytes": 63
+},
+{
+"off": "0xf7964",
+"jp": "孫馬鹿が悪化している",
+"maxbytes": 255
+},
+{
+"off": "0xf7a6d",
+"jp": "「さようなら」",
+"maxbytes": 66
+},
+{
+"off": "0xf7ac0",
+"jp": "高遠延二郎最後のエッセイ",
+"maxbytes": 63
+},
+{
+"off": "0xf7b00",
+"jp": "奇しくもタイトル通りの",
+"maxbytes": 63
+},
+{
+"off": "0xf7b40",
+"jp": "絶筆になってしまった",
+"maxbytes": 255
+},
+{
+"off": "0xf7c49",
+"jp": "『やさしい黒魔術　初級編』",
+"maxbytes": 66
+},
+{
+"off": "0xf7c9c",
+"jp": "黒魔術の解説書",
+"maxbytes": 63
+},
+{
+"off": "0xf7cdc",
+"jp": "実行しないようにと",
+"maxbytes": 63
+},
+{
+"off": "0xf7d1c",
+"jp": "書いてある。",
+"maxbytes": 255
+},
+{
+"off": "0xf7e25",
+"jp": "『新・愛しのマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xf7e78",
+"jp": "恋愛大河小説第７弾",
+"maxbytes": 63
+},
+{
+"off": "0xf7eb8",
+"jp": "続・故郷編",
+"maxbytes": 319
+},
+{
+"off": "0xf8001",
+"jp": "『週刊インパクトＮｏ．７２』",
+"maxbytes": 66
+},
+{
+"off": "0xf8054",
+"jp": "写真週刊誌",
+"maxbytes": 63
+},
+{
+"off": "0xf8094",
+"jp": "怪奇現象が相次いだテレビ",
+"maxbytes": 63
+},
+{
+"off": "0xf80d4",
+"jp": "局の懲りない様子",
+"maxbytes": 255
+},
+{
+"off": "0xf81dd",
+"jp": "「週刊インパクトＮｏ．８９」",
+"maxbytes": 66
+},
+{
+"off": "0xf8230",
+"jp": "写真週刊誌",
+"maxbytes": 63
+},
+{
+"off": "0xf8270",
+"jp": "新人女優・池内梨奈の",
+"maxbytes": 63
+},
+{
+"off": "0xf82b0",
+"jp": "自殺報道",
+"maxbytes": 63
+},
+{
+"off": "0xf82f0",
+"jp": "オーディションに落選した",
+"maxbytes": 63
+},
+{
+"off": "0xf8330",
+"jp": "ことが原因と見られる",
+"maxbytes": 127
+},
+{
+"off": "0xf83b9",
+"jp": "『永遠のマリアンヌ』",
+"maxbytes": 66
+},
+{
+"off": "0xf840c",
+"jp": "恋愛大河小説",
+"maxbytes": 63
+},
+{
+"off": "0xf844c",
+"jp": "最終巻",
+"maxbytes": 319
+},
+{
+"off": "0xf8595",
+"jp": "『呪は死なず』",
+"maxbytes": 66
+},
+{
+"off": "0xf85e8",
+"jp": "高遠延二郎の涼介シリーズ",
+"maxbytes": 63
+},
+{
+"off": "0xf8628",
+"jp": "実在するオカルト伝承を",
+"maxbytes": 63
+},
+{
+"off": "0xf8668",
+"jp": "題材にした事件",
+"maxbytes": 255
+},
+{
+"off": "0xf8771",
+"jp": "『ＵＰＳＴＡＲＴＳ』",
+"maxbytes": 66
+},
+{
+"off": "0xf87c4",
+"jp": "オークション雑誌",
+"maxbytes": 63
+},
+{
+"off": "0xf8804",
+"jp": "ルロイ物の所に印が",
+"maxbytes": 63
+},
+{
+"off": "0xf8844",
+"jp": "つけてある",
+"maxbytes": 255
+},
+{
+"off": "0xf894d",
+"jp": "『仮面愛好会　会報２２１号』",
+"maxbytes": 66
+},
+{
+"off": "0xf89a0",
+"jp": "仮面を愛好する団体の",
+"maxbytes": 63
+},
+{
+"off": "0xf89e0",
+"jp": "会報",
+"maxbytes": 319
+},
+{
+"off": "0xf93d8",
+"jp": "斑井殺害",
+"maxbytes": 12
+},
+{
+"off": "0xf93e5",
+"jp": "暗石殺害",
+"maxbytes": 12
+},
+{
+"off": "0xf93f2",
+"jp": "椿殺害",
+"maxbytes": 12
+},
+{
+"off": "0xf93ff",
+"jp": "那須殺害",
+"maxbytes": 12
+},
+{
+"off": "0xf940c",
+"jp": "鈴奈殺害",
+"maxbytes": 12
+},
+{
+"off": "0xf9419",
+"jp": "静奈殺害",
+"maxbytes": 12
+},
+{
+"off": "0xf9426",
+"jp": "井戸の人殺害",
+"maxbytes": 13
+},
+{
+"off": "0xf9434",
+"jp": "食堂",
+"maxbytes": 16
+},
+{
+"off": "0xf9445",
+"jp": "暗石の部屋",
+"maxbytes": 16
+},
+{
+"off": "0xf9456",
+"jp": "地下室",
+"maxbytes": 16
+},
+{
+"off": "0xf9467",
+"jp": "那須の部屋",
+"maxbytes": 16
+},
+{
+"off": "0xf9478",
+"jp": "静奈の部屋",
+"maxbytes": 16
+},
+{
+"off": "0xf9489",
+"jp": "静奈の部屋",
+"maxbytes": 16
+},
+{
+"off": "0xf949a",
+"jp": "井戸",
+"maxbytes": 17
+},
+{
+"off": "0xf94ac",
+"jp": "刃物による失血死",
+"maxbytes": 45
+},
+{
+"off": "0xf94da",
+"jp": "頭部射創による頭蓋内損傷",
+"maxbytes": 45
+},
+{
+"off": "0xf9508",
+"jp": "頭部強打による脳挫傷",
+"maxbytes": 45
+},
+{
+"off": "0xf9536",
+"jp": "薬物中毒",
+"maxbytes": 45
+},
+{
+"off": "0xf9564",
+"jp": "胸部大動脈損傷による出血性ショック",
+"maxbytes": 45
+},
+{
+"off": "0xf9592",
+"jp": "胸部大動脈損傷による出血性ショック",
+"maxbytes": 45
+},
+{
+"off": "0xf95c0",
+"jp": "不明だが顔面以外に外傷は見当たらず",
+"maxbytes": 47
+},
+{
+"off": "0xf95f0",
+"jp": "２３：３０",
+"maxbytes": 12
+},
+{
+"off": "0xf95fd",
+"jp": "２３：２５",
+"maxbytes": 12
+},
+{
+"off": "0xf960a",
+"jp": "０４：３０",
+"maxbytes": 12
+},
+{
+"off": "0xf9617",
+"jp": "２３：２５",
+"maxbytes": 12
+},
+{
+"off": "0xf9624",
+"jp": "０２：３０",
+"maxbytes": 12
+},
+{
+"off": "0xf9631",
+"jp": "０２：３０",
+"maxbytes": 12
+},
+{
+"off": "0xf963e",
+"jp": "？？？",
+"maxbytes": 13
+},
+{
+"off": "0xf964c",
+"jp": "０１：００",
+"maxbytes": 12
+},
+{
+"off": "0xf9659",
+"jp": "２３：３５",
+"maxbytes": 12
+},
+{
+"off": "0xf9666",
+"jp": "０６：００",
+"maxbytes": 12
+},
+{
+"off": "0xf9673",
+"jp": "２３：３５",
+"maxbytes": 12
+},
+{
+"off": "0xf9680",
+"jp": "０３：３０",
+"maxbytes": 12
+},
+{
+"off": "0xf968d",
+"jp": "０３：３０",
+"maxbytes": 12
+},
+{
+"off": "0xf969a",
+"jp": "？？？",
+"maxbytes": 13
+},
+{
+"off": "0xf96a8",
+"jp": "後頭部に殴られた跡があった。",
+"maxbytes": 56
+},
+{
+"off": "0xf96e1",
+"jp": "死体は長持の中に入れられていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf971a",
+"jp": "腕時計が割れて４時４０分で止まっていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9753",
+"jp": "長持の中には「杖」が入っていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf978c",
+"jp": "床にペンキがこぼれていた。",
+"maxbytes": 59
+},
+{
+"off": "0xf97c8",
+"jp": "後頭部に殴られた跡があった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9801",
+"jp": "死体は長持の中に入れられていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf983a",
+"jp": "腕時計が割れて４時４０分で止まっていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9873",
+"jp": "長持の中には「枝」が入っていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf98ac",
+"jp": "床にペンキがこぼれていた。",
+"maxbytes": 59
+},
+{
+"off": "0xf98e8",
+"jp": "毒を飲まされたようだ。",
+"maxbytes": 56
+},
+{
+"off": "0xf9921",
+"jp": "毒はペットボトルのお茶に入っていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf995a",
+"jp": "床に吐血していた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9993",
+"jp": "お茶は風呂上りに台所から持っていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf99cc",
+"jp": "普段から警戒心がなかった。",
+"maxbytes": 59
+},
+{
+"off": "0xf9a08",
+"jp": "胸に巨大な斧が打ち下ろされていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9a41",
+"jp": "遺体はベッドに寝たままだった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9a7a",
+"jp": "ベランダには元から鍵が無かった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9ab3",
+"jp": "鈴奈の部屋に通じる扉は開かない",
+"maxbytes": 56
+},
+{
+"off": "0xf9aec",
+"jp": "空き部屋のベランダに縄梯子があった。",
+"maxbytes": 59
+},
+{
+"off": "0xf9b28",
+"jp": "胸に巨大な斧が打ち下ろされていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9b61",
+"jp": "遺体はベッドに寝たままだった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9b9a",
+"jp": "ベランダには元から鍵が無かった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9bd3",
+"jp": "鈴奈の部屋に通じる扉は開かない",
+"maxbytes": 56
+},
+{
+"off": "0xf9c0c",
+"jp": "空き部屋のベランダに縄梯子があった。",
+"maxbytes": 59
+},
+{
+"off": "0xf9c48",
+"jp": "額を矢で射抜かれていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9c81",
+"jp": "扉も窓も鍵が掛かっていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9cba",
+"jp": "窓枠の辺りに濡れた跡があった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9cf3",
+"jp": "窓の下のじゅうたんに湿った跡があった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9d2c",
+"jp": "薔薇の絵が置いてあった。",
+"maxbytes": 59
+},
+{
+"off": "0xf9d68",
+"jp": "井戸の中に落ちていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9da1",
+"jp": "頭を下に逆さになっていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9dda",
+"jp": "顔面が殴り潰されていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9e13",
+"jp": "庭で死んでいた人に服装が似ている",
+"maxbytes": 56
+},
+{
+"off": "0xf9e4c",
+"jp": "ズボンの裾にキーホルダーが引っかかっていた。",
+"maxbytes": 59
+},
+{
+"off": "0xf9e88",
+"jp": "発見時、死後半日くらい経過していた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9ec1",
+"jp": "胸を正面から刃物で刺されていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9efa",
+"jp": "身体は２つの椅子に固定されていた。",
+"maxbytes": 56
+},
+{
+"off": "0xf9f33",
+"jp": "首と足を縄で椅子に縛ってあった。",
+"maxbytes": 56
+},
+{
+"off": "0xf9f6c",
+"jp": "床には血の跡がなかった。",
+"maxbytes": 59
+},
+{
+"off": "0xf9fa8",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xf9fc8",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xf9fe8",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa008",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa028",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa048",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa068",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa088",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa0a8",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa0c8",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfa0e8",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xfa108",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xfa128",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa148",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa168",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa188",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa1a8",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa1c8",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa1e8",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa208",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfa228",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xfa248",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xfa268",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa288",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa2a8",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa2c8",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa2e8",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa308",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa328",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa348",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfa368",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xfa388",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xfa3a8",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa3c8",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa3e8",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa408",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa428",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa448",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa468",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa488",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfa4a8",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xfa4c8",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xfa4e8",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa508",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa528",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa548",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa568",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa588",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa5a8",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa5c8",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfa5e8",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xfa608",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xfa628",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa648",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa668",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa688",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa6a8",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa6c8",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa6e8",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa708",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfa728",
+"jp": "現場写真01",
+"maxbytes": 31
+},
+{
+"off": "0xfa748",
+"jp": "現場写真02",
+"maxbytes": 31
+},
+{
+"off": "0xfa768",
+"jp": "現場写真03",
+"maxbytes": 31
+},
+{
+"off": "0xfa788",
+"jp": "現場写真04",
+"maxbytes": 31
+},
+{
+"off": "0xfa7a8",
+"jp": "現場写真05",
+"maxbytes": 31
+},
+{
+"off": "0xfa7c8",
+"jp": "現場写真06",
+"maxbytes": 31
+},
+{
+"off": "0xfa7e8",
+"jp": "現場写真07",
+"maxbytes": 31
+},
+{
+"off": "0xfa808",
+"jp": "現場写真08",
+"maxbytes": 31
+},
+{
+"off": "0xfa828",
+"jp": "現場写真09",
+"maxbytes": 31
+},
+{
+"off": "0xfa848",
+"jp": "現場写真10",
+"maxbytes": 31
+},
+{
+"off": "0xfb632",
+"jp": "舛",
+"maxbytes": 3
+},
+{
+"off": "0xfb63a",
+"jp": "舛",
+"maxbytes": 3
+},
+{
+"off": "0xfb642",
+"jp": "舛",
+"maxbytes": 7
+},
+{
+"off": "0xfb66a",
+"jp": "砲",
+"maxbytes": 3
+},
+{
+"off": "0xfb672",
+"jp": "砲",
+"maxbytes": 3
+},
+{
+"off": "0xfb67a",
+"jp": "砲",
+"maxbytes": 3
+},
+{
+"off": "0xfb682",
+"jp": "砲",
+"maxbytes": 3
+},
+{
+"off": "0xfb68a",
+"jp": "砲",
+"maxbytes": 25
+},
+{
+"off": "0xfb6ae",
+"jp": "植",
+"maxbytes": 3
+},
+{
+"off": "0xfb6e6",
+"jp": "靴",
+"maxbytes": 3
+},
+{
+"off": "0xfcdea",
+"jp": "韮",
+"maxbytes": 3
+},
+{
+"off": "0xfcdee",
+"jp": "韮",
+"maxbytes": 3
+},
+{
+"off": "0xfce0e",
+"jp": "佞",
+"maxbytes": 3
+},
+{
+"off": "0xfce1e",
+"jp": "僂",
+"maxbytes": 3
+},
+{
+"off": "0xfd0b0",
+"jp": "館の崩落を防ぐには、和よりも体力のある",
+"maxbytes": 63
+},
+{
+"off": "0xfd0f0",
+"jp": "男手が３人必要です。",
+"maxbytes": 255
+},
+{
+"off": "0xfd1f4",
+"jp": "巨大てるてる坊主に関する証言に、",
+"maxbytes": 63
+},
+{
+"off": "0xfd234",
+"jp": "注目してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0xfd338",
+"jp": "井戸付近で消えた死体がどうなったのか",
+"maxbytes": 63
+},
+{
+"off": "0xfd378",
+"jp": "確認が必要です。",
+"maxbytes": 63
+},
+{
+"off": "0xfd3b8",
+"jp": "まずは井戸を確認してみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0xfd47c",
+"jp": "犯人はもう、絞れているはずです。",
+"maxbytes": 63
+},
+{
+"off": "0xfd4bc",
+"jp": "告発してみてはどうでしょうか？",
+"maxbytes": 255
+},
+{
+"off": "0xfd5c0",
+"jp": "誰が事件を起こしたのかよりも",
+"maxbytes": 63
+},
+{
+"off": "0xfd600",
+"jp": "何故こんな事件が計画されたのか、を",
+"maxbytes": 63
+},
+{
+"off": "0xfd640",
+"jp": "重要視しましょう。",
+"maxbytes": 191
+},
+{
+"off": "0xfd704",
+"jp": "まさか本気で選択されたわけでは",
+"maxbytes": 63
+},
+{
+"off": "0xfd744",
+"jp": "ないですよね？",
+"maxbytes": 255
+},
+{
+"off": "0xfd848",
+"jp": "井戸の死体が誰なのか調査して",
+"maxbytes": 63
+},
+{
+"off": "0xfd888",
+"jp": "みましょう。",
+"maxbytes": 255
+},
+{
+"off": "0xfd98c",
+"jp": "この事件は幽霊の犯行ではありません。",
+"maxbytes": 319
+},
+{
+"off": "0xfdad0",
+"jp": "斑井さんの殺害時の全員のアリバイを、",
+"maxbytes": 63
+},
+{
+"off": "0xfdb10",
+"jp": "よく調べて見ましょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfdb50",
+"jp": "証言の食い違う人がいるはずです。",
+"maxbytes": 191
+},
+{
+"off": "0xfdc14",
+"jp": "館には仕掛けがあります。",
+"maxbytes": 63
+},
+{
+"off": "0xfdc54",
+"jp": "温室や長持のある部屋を、よく調べて",
+"maxbytes": 63
+},
+{
+"off": "0xfdc94",
+"jp": "みましょう。",
+"maxbytes": 191
+},
+{
+"off": "0xfdd58",
+"jp": "地下室の隠された部屋を全てまわって",
+"maxbytes": 63
+},
+{
+"off": "0xfdd98",
+"jp": "みれば、館の仕掛けに関わる何かが見つ",
+"maxbytes": 63
+},
+{
+"off": "0xfddd8",
+"jp": "かるかもしれません。",
+"maxbytes": 191
+},
+{
+"off": "0xfde9c",
+"jp": "１階の各部屋の壁をよく調べてみましょう。",
+"maxbytes": 319
+},
+{
+"off": "0xfdfe0",
+"jp": "南雲さんが誰だったのか、を確認する",
+"maxbytes": 63
+},
+{
+"off": "0xfe020",
+"jp": "調査が必要です。",
+"maxbytes": 255
+},
+{
+"off": "0xfe124",
+"jp": "この日に狙われているのは、本当に静奈",
+"maxbytes": 63
+},
+{
+"off": "0xfe164",
+"jp": "だったのでしょうか？",
+"maxbytes": 63
+},
+{
+"off": "0xfe1a4",
+"jp": "書庫や温室を確認してみましょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfe1e4",
+"jp": "書庫や温室で何か手がかりがあれば、",
+"maxbytes": 63
+},
+{
+"off": "0xfe224",
+"jp": "日織に聞いてみるのもいいでしょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfe268",
+"jp": "２日以降も、温室はマメに調べておきま",
+"maxbytes": 63
+},
+{
+"off": "0xfe2a8",
+"jp": "しょう。",
+"maxbytes": 255
+},
+{
+"off": "0xfe3ac",
+"jp": "見立ての元ネタが何なのか、書庫で",
+"maxbytes": 63
+},
+{
+"off": "0xfe3ec",
+"jp": "調べてみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0xfe4f0",
+"jp": "見立てに必要な道具が何か、見立ての",
+"maxbytes": 63
+},
+{
+"off": "0xfe530",
+"jp": "元ネタに詳しい人ならヒントを知って",
+"maxbytes": 63
+},
+{
+"off": "0xfe570",
+"jp": "いるかもしれません。",
+"maxbytes": 191
+},
+{
+"off": "0xfe634",
+"jp": "見立ての道具が、そのまま凶器に",
+"maxbytes": 63
+},
+{
+"off": "0xfe674",
+"jp": "なりうる場合、同じものは【全て】",
+"maxbytes": 63
+},
+{
+"off": "0xfe6b4",
+"jp": "隠した方がいいでしょう。",
+"maxbytes": 191
+},
+{
+"off": "0xfe778",
+"jp": "この日に狙われているのは、本当に暗石",
+"maxbytes": 63
+},
+{
+"off": "0xfe7b8",
+"jp": "だったのでしょうか？",
+"maxbytes": 63
+},
+{
+"off": "0xfe7f8",
+"jp": "書庫や温室を確認してみましょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfe838",
+"jp": "書庫や温室で何か手がかりがあれば、",
+"maxbytes": 63
+},
+{
+"off": "0xfe878",
+"jp": "日織に聞いてみるのもいいでしょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfe8bc",
+"jp": "この日に狙われているのは、本当に鈴奈",
+"maxbytes": 63
+},
+{
+"off": "0xfe8fc",
+"jp": "だったのでしょうか？",
+"maxbytes": 63
+},
+{
+"off": "0xfe93c",
+"jp": "書庫や温室を確認してみましょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfe97c",
+"jp": "書庫や温室で何か手がかりがあれば、",
+"maxbytes": 63
+},
+{
+"off": "0xfe9bc",
+"jp": "日織に聞いてみるのもいいでしょう。",
+"maxbytes": 63
+},
+{
+"off": "0xfea00",
+"jp": "何もしなくても良かったのでしょうか？",
+"maxbytes": 63
+},
+{
+"off": "0xfea40",
+"jp": "本当は見張らないといけない人がいた",
+"maxbytes": 63
+},
+{
+"off": "0xfea80",
+"jp": "のかもしれません。",
+"maxbytes": 191
+},
+{
+"off": "0xfeb44",
+"jp": "重要な時間はてるてる坊主が１ＦＨ",
+"maxbytes": 63
+},
+{
+"off": "0xfeb84",
+"jp": "にあった時で、かつ犯人がウソ",
+"maxbytes": 63
+},
+{
+"off": "0xfebc4",
+"jp": "をついている時間です。",
+"maxbytes": 63
+},
+{
+"off": "0xfec04",
+"jp": "それ以降は犯行中と見ていれば、",
+"maxbytes": 63
+},
+{
+"off": "0xfec44",
+"jp": "犯人を十分揺さぶることができます。",
+"maxbytes": 63
+},
+{
+"off": "0xfec88",
+"jp": "亡くなったことを発見できていない",
+"maxbytes": 63
+},
+{
+"off": "0xfecc8",
+"jp": "人がいました。",
+"maxbytes": 63
+},
+{
+"off": "0xfed08",
+"jp": "いつの間にか返事もしなくなった人は",
+"maxbytes": 63
+},
+{
+"off": "0xfed48",
+"jp": "いませんか？",
+"maxbytes": 127
+},
+{
+"off": "0xfedcc",
+"jp": "時計の鳴った時刻や、その前後の",
+"maxbytes": 63
+},
+{
+"off": "0xfee0c",
+"jp": "物音などから、犯人の動きを推測",
+"maxbytes": 63
+},
+{
+"off": "0xfee4c",
+"jp": "しましょう。",
+"maxbytes": 191
+},
+{
+"off": "0xfef10",
+"jp": "該当人物の殺害時のアリバイ表を",
+"maxbytes": 63
+},
+{
+"off": "0xfef50",
+"jp": "提示してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0xff054",
+"jp": "もう少し頑張りましょう",
+"maxbytes": 319
+},
+{
+"off": "0xff198",
+"jp": "もう少し頑張りましょう",
+"maxbytes": 319
+},
+{
+"off": "0xff2dc",
+"jp": "もう少し頑張りましょう",
+"maxbytes": 319
+},
+{
+"off": "0xff420",
+"jp": "もう少し頑張りましょう",
+"maxbytes": 319
+},
+{
+"off": "0xff564",
+"jp": "館に来ていた人物で、最初の日に温室に",
+"maxbytes": 63
+},
+{
+"off": "0xff5a4",
+"jp": "いなかった人は誰か思い出してください。",
+"maxbytes": 255
+},
+{
+"off": "0xff6a8",
+"jp": "『南雲役』だった人を指摘してください。",
+"maxbytes": 63
+},
+{
+"off": "0xff6e8",
+"jp": "２日目の娯楽室でのニュースに関する",
+"maxbytes": 63
+},
+{
+"off": "0xff728",
+"jp": "やりとりの中に名前が出ていたはずです。",
+"maxbytes": 191
+},
+{
+"off": "0xff7ec",
+"jp": "２日目に娯楽室でラジオの放送を聴いた",
+"maxbytes": 63
+},
+{
+"off": "0xff82c",
+"jp": "時の会話を、よく思い出してください。",
+"maxbytes": 255
+},
+{
+"off": "0xff930",
+"jp": "遺体も含め、四倉さんらしき人を最後に",
+"maxbytes": 63
+},
+{
+"off": "0xff970",
+"jp": "見た場所はどこでしたか？",
+"maxbytes": 255
+},
+{
+"off": "0xffa74",
+"jp": "最初に躓いた死体は、本当にあの時",
+"maxbytes": 63
+},
+{
+"off": "0xffab4",
+"jp": "既に死体だったと確認できましたか？",
+"maxbytes": 255
+},
+{
+"off": "0xffbb8",
+"jp": "井戸の中に死体と一緒に落ちていた",
+"maxbytes": 63
+},
+{
+"off": "0xffbf8",
+"jp": "斑井さんの持ち物は何でしたか？",
+"maxbytes": 255
+},
+{
+"off": "0xffcfc",
+"jp": "斑井さんが殺害されるより前に、",
+"maxbytes": 63
+},
+{
+"off": "0xffd3c",
+"jp": "物音など何か不審な出来事は",
+"maxbytes": 63
+},
+{
+"off": "0xffd7c",
+"jp": "ありませんでしたか？",
+"maxbytes": 191
+},
+{
+"off": "0xffe40",
+"jp": "応接室で解散した後、御陵さんと",
+"maxbytes": 63
+},
+{
+"off": "0xffe80",
+"jp": "会ったと証言している人のアリバイ",
+"maxbytes": 63
+},
+{
+"off": "0xffec0",
+"jp": "証言を確認してみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0xfff84",
+"jp": "犯人にとっての招かれざる客は誰",
+"maxbytes": 63
+},
+{
+"off": "0xfffc4",
+"jp": "でしょう？",
+"maxbytes": 255
+},
+{
+"off": "0x1000c8",
+"jp": "高遠氏の著作中、殺人の被害者に",
+"maxbytes": 63
+},
+{
+"off": "0x100108",
+"jp": "ならない登場人物は誰でしょう？",
+"maxbytes": 255
+},
+{
+"off": "0x10020c",
+"jp": "高遠氏の著作中、日織が被害者に",
+"maxbytes": 63
+},
+{
+"off": "0x10024c",
+"jp": "なることはありましたか？",
+"maxbytes": 255
+},
+{
+"off": "0x100350",
+"jp": "ニセ帽子屋は何を題材に脚本の",
+"maxbytes": 63
+},
+{
+"off": "0x100390",
+"jp": "登場人物名を決めてましたか？",
+"maxbytes": 255
+},
+{
+"off": "0x100494",
+"jp": "初日の夜、応接室より解散した後、",
+"maxbytes": 63
+},
+{
+"off": "0x1004d4",
+"jp": "和はどこにいましたか？",
+"maxbytes": 255
+},
+{
+"off": "0x1005d8",
+"jp": "何かてるてる坊主に関する重要な",
+"maxbytes": 63
+},
+{
+"off": "0x100618",
+"jp": "証言を聞き忘れていませんか？",
+"maxbytes": 255
+},
+{
+"off": "0x10071c",
+"jp": "斑井さんが殺害される直前に、",
+"maxbytes": 63
+},
+{
+"off": "0x10075c",
+"jp": "一度みたら忘れないような大きな物品が",
+"maxbytes": 63
+},
+{
+"off": "0x10079c",
+"jp": "アチコチ移動されてませんか？",
+"maxbytes": 191
+},
+{
+"off": "0x100860",
+"jp": "事件の鍵となる時間とそれ以降の犯人の",
+"maxbytes": 63
+},
+{
+"off": "0x1008a0",
+"jp": "行動に注目して、もう一度、各人の証言",
+"maxbytes": 63
+},
+{
+"off": "0x1008e0",
+"jp": "を聞いてみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x1009a4",
+"jp": "重要な事件の鍵となる時間と場所を証言",
+"maxbytes": 63
+},
+{
+"off": "0x1009e4",
+"jp": "から割り出してから、各々のアリバイ",
+"maxbytes": 63
+},
+{
+"off": "0x100a24",
+"jp": "を確認してみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x100ae8",
+"jp": "惜しいです。　後少しです。",
+"maxbytes": 63
+},
+{
+"off": "0x100b28",
+"jp": "重要な時間以降の犯人の行動や",
+"maxbytes": 63
+},
+{
+"off": "0x100b68",
+"jp": "嘘をついていない人達の行動を",
+"maxbytes": 63
+},
+{
+"off": "0x100ba8",
+"jp": "アチコチ動かしてはいませんか？",
+"maxbytes": 127
+},
+{
+"off": "0x100c2c",
+"jp": "椿殺害後の鈴奈の証言と犯人の証言を、",
+"maxbytes": 63
+},
+{
+"off": "0x100c6c",
+"jp": "もう一度、よく確認してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0x100d70",
+"jp": "鈴奈、静奈、日織、御陵、那須の動きを",
+"maxbytes": 63
+},
+{
+"off": "0x100db0",
+"jp": "証言から整理してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0x100eb4",
+"jp": "犯人がどこにいつからいつまで",
+"maxbytes": 63
+},
+{
+"off": "0x100ef4",
+"jp": "隠れていたのか確認してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0x100ff8",
+"jp": "嘘をついていない人の欄を編集して",
+"maxbytes": 63
+},
+{
+"off": "0x101038",
+"jp": "ないかどうか確認してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0x10113c",
+"jp": "椿の死亡時刻が確定できる写真が、",
+"maxbytes": 63
+},
+{
+"off": "0x10117c",
+"jp": "あったはずです。",
+"maxbytes": 63
+},
+{
+"off": "0x1011bc",
+"jp": "現場写真を確認してみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x101280",
+"jp": "椿殺害現場にいたということが、特定",
+"maxbytes": 63
+},
+{
+"off": "0x1012c0",
+"jp": "されかねない『踏んではならないもの』",
+"maxbytes": 63
+},
+{
+"off": "0x101300",
+"jp": "が床になかったでしょうか？",
+"maxbytes": 191
+},
+{
+"off": "0x1013c4",
+"jp": "和が娯楽室にいた夕食時間に、那須は",
+"maxbytes": 63
+},
+{
+"off": "0x101404",
+"jp": "どこにいくと言っていたでしょうか？",
+"maxbytes": 255
+},
+{
+"off": "0x101508",
+"jp": "風呂にいるはずの那須が、部屋にいた",
+"maxbytes": 63
+},
+{
+"off": "0x101548",
+"jp": "かのような証言をしていた人が、いませ",
+"maxbytes": 63
+},
+{
+"off": "0x101588",
+"jp": "んでしたか？",
+"maxbytes": 191
+},
+{
+"off": "0x10164c",
+"jp": "暗石の証言に抵触する時間を探して、",
+"maxbytes": 63
+},
+{
+"off": "0x10168c",
+"jp": "那須の動きと異なる状態になる時間を",
+"maxbytes": 63
+},
+{
+"off": "0x1016cc",
+"jp": "推理してみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x101790",
+"jp": "引き篭もっていた筈の暗石には、那須が",
+"maxbytes": 63
+},
+{
+"off": "0x1017d0",
+"jp": "部屋に持ち込んだものが何か判らない",
+"maxbytes": 63
+},
+{
+"off": "0x101810",
+"jp": "はずです。",
+"maxbytes": 191
+},
+{
+"off": "0x1018d4",
+"jp": "暗石の額に刺さっていたものを射出する",
+"maxbytes": 63
+},
+{
+"off": "0x101914",
+"jp": "道具が凶器です。",
+"maxbytes": 255
+},
+{
+"off": "0x101a18",
+"jp": "暗石の死体の向きと体勢から、死亡の",
+"maxbytes": 63
+},
+{
+"off": "0x101a58",
+"jp": "瞬間を推理しましょう。",
+"maxbytes": 63
+},
+{
+"off": "0x101a98",
+"jp": "そこから額に矢を刺せる位置を絞り",
+"maxbytes": 63
+},
+{
+"off": "0x101ad8",
+"jp": "込んでください。",
+"maxbytes": 127
+},
+{
+"off": "0x101b5c",
+"jp": "暗石が窓を覗きこんだ時に『落下』した",
+"maxbytes": 63
+},
+{
+"off": "0x101b9c",
+"jp": "ものを、探してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0x101ca0",
+"jp": "暗石の傍に落ちていた鍵が、どこの鍵か",
+"maxbytes": 63
+},
+{
+"off": "0x101ce0",
+"jp": "ちゃんと確認するとよいでしょう。",
+"maxbytes": 255
+},
+{
+"off": "0x101de4",
+"jp": "合鍵が無くなっても騒がれ難い",
+"maxbytes": 63
+},
+{
+"off": "0x101e24",
+"jp": "客室はなかったですか？",
+"maxbytes": 255
+},
+{
+"off": "0x101f28",
+"jp": "暗石は本当にアリバイ表の時間に、御陵",
+"maxbytes": 63
+},
+{
+"off": "0x101f68",
+"jp": "に会うことができたのか、調査して",
+"maxbytes": 63
+},
+{
+"off": "0x101fa8",
+"jp": "みましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x10206c",
+"jp": "『暗石』というキャラクターが登場する",
+"maxbytes": 63
+},
+{
+"off": "0x1020ac",
+"jp": "高遠氏の小説に関わる物が置かれたのは",
+"maxbytes": 63
+},
+{
+"off": "0x1020ec",
+"jp": "何日か思い出してみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x1021b0",
+"jp": "凶器を見つけていなければ、物置など、",
+"maxbytes": 63
+},
+{
+"off": "0x1021f0",
+"jp": "何が置いてあってもおかしくない部屋を",
+"maxbytes": 63
+},
+{
+"off": "0x102230",
+"jp": "あさってみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x1022f4",
+"jp": "犯行のあった夜、何か音が鳴っては",
+"maxbytes": 63
+},
+{
+"off": "0x102334",
+"jp": "なかったですか？",
+"maxbytes": 63
+},
+{
+"off": "0x102374",
+"jp": "音についての証言を確認しましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x102438",
+"jp": "殺害のあったのは深夜です。",
+"maxbytes": 63
+},
+{
+"off": "0x102478",
+"jp": "深夜に他の人を起こしかねないような",
+"maxbytes": 63
+},
+{
+"off": "0x1024b8",
+"jp": "大時計の大きな音を鳴らす危険を冒し",
+"maxbytes": 63
+},
+{
+"off": "0x1024f8",
+"jp": "ても、隠したいことがあるはずです。",
+"maxbytes": 127
+},
+{
+"off": "0x10257c",
+"jp": "犯行時刻の犯人の行動だけが、不審な点",
+"maxbytes": 63
+},
+{
+"off": "0x1025bc",
+"jp": "です。",
+"maxbytes": 63
+},
+{
+"off": "0x1025fc",
+"jp": "他の人は嘘をついていないので、修正",
+"maxbytes": 63
+},
+{
+"off": "0x10263c",
+"jp": "する必要はありません。",
+"maxbytes": 127
+},
+{
+"off": "0x1026c0",
+"jp": "静奈の部屋から、犯人が容易く侵入可能",
+"maxbytes": 63
+},
+{
+"off": "0x102700",
+"jp": "なルートがあります。",
+"maxbytes": 63
+},
+{
+"off": "0x102740",
+"jp": "２階の見取図を良く見てみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x102804",
+"jp": "空室のベランダに縄梯子があると同時に",
+"maxbytes": 63
+},
+{
+"off": "0x102844",
+"jp": "それがトリックであることを、言い逃れ",
+"maxbytes": 63
+},
+{
+"off": "0x102884",
+"jp": "できない証拠もあります。",
+"maxbytes": 63
+},
+{
+"off": "0x1028c4",
+"jp": "空室を確認をしておきましょう。",
+"maxbytes": 127
+},
+{
+"off": "0x102948",
+"jp": "双子がベランダを通過するのに",
+"maxbytes": 63
+},
+{
+"off": "0x102988",
+"jp": "不可能な事情があります。",
+"maxbytes": 63
+},
+{
+"off": "0x1029c8",
+"jp": "はじめて鈴奈の部屋を訪ねた時に、",
+"maxbytes": 63
+},
+{
+"off": "0x102a08",
+"jp": "鈴奈と一緒に確認できますので、",
+"maxbytes": 63
+},
+{
+"off": "0x102a48",
+"jp": "行ってみましょう。",
+"maxbytes": 63
+},
+{
+"off": "0x102a8c",
+"jp": "御陵の犯行動機を良く考えて、最も",
+"maxbytes": 63
+},
+{
+"off": "0x102acc",
+"jp": "憎んでいる人を選んでください。",
+"maxbytes": 63
+},
+{
+"off": "0x102b0c",
+"jp": "動機が判らない場合は、暗石さんに仕",
+"maxbytes": 63
+},
+{
+"off": "0x102b4c",
+"jp": "事に関係することを聞いてみましょう。",
+"maxbytes": 127
+},
+{
+"off": "0x102bd0",
+"jp": "館には仕掛けがあります。",
+"maxbytes": 63
+},
+{
+"off": "0x102c10",
+"jp": "仕掛けを止める方法もあります。",
+"maxbytes": 63
+},
+{
+"off": "0x102c50",
+"jp": "御陵の「楔」という言葉を忘れずに",
+"maxbytes": 63
+},
+{
+"off": "0x102c90",
+"jp": "館の地下を探索してみましょう。",
+"maxbytes": 127
+},
+{
+"off": "0x102d14",
+"jp": "御陵が帽子屋の正体を知っていれば、",
+"maxbytes": 63
+},
+{
+"off": "0x102d54",
+"jp": "斑井を殺す必要はなかったはずです。",
+"maxbytes": 255
+},
+{
+"off": "0x102e58",
+"jp": "御陵が帽子屋を憎むようになった経緯を",
+"maxbytes": 63
+},
+{
+"off": "0x102e98",
+"jp": "本を読んだり、人と会話して調べて",
+"maxbytes": 63
+},
+{
+"off": "0x102ed8",
+"jp": "みましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x102f9c",
+"jp": "新人女優の自殺の原因についても、",
+"maxbytes": 63
+},
+{
+"off": "0x102fdc",
+"jp": "本を読んだり、人と会話して調べて",
+"maxbytes": 63
+},
+{
+"off": "0x10301c",
+"jp": "みましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x1030e0",
+"jp": "全員が帽子屋ということは、斑井も",
+"maxbytes": 63
+},
+{
+"off": "0x103120",
+"jp": "帽子屋ということになります。",
+"maxbytes": 255
+},
+{
+"off": "0x103224",
+"jp": "ここに集められた人達に、どういった",
+"maxbytes": 63
+},
+{
+"off": "0x103264",
+"jp": "繋がりがあったのか調べるためにも、",
+"maxbytes": 63
+},
+{
+"off": "0x1032a4",
+"jp": "もっと聞き込みをしてみましょう。",
+"maxbytes": 191
+},
+{
+"off": "0x103368",
+"jp": "御陵の過去について知ってそうな人に",
+"maxbytes": 63
+},
+{
+"off": "0x1033a8",
+"jp": "聞き込みしてみましょう。",
+"maxbytes": 63
+},
+{
+"off": "0x1033e8",
+"jp": "「あの子」が誰か推理できるかも",
+"maxbytes": 63
+},
+{
+"off": "0x103428",
+"jp": "しれません。",
+"maxbytes": 127
+},
+{
+"off": "0x1034ac",
+"jp": "「あの子」と御陵の関係を本人に確認",
+"maxbytes": 63
+},
+{
+"off": "0x1034ec",
+"jp": "してみましょう。",
+"maxbytes": 255
+},
+{
+"off": "0x1035f0",
+"jp": "この事件の原因になった事に、帽子屋は",
+"maxbytes": 63
+},
+{
+"off": "0x103630",
+"jp": "本当に関係していたのでしょうか？",
+"maxbytes": 63
+},
+{
+"off": "0x103670",
+"jp": "静奈か鈴奈の話をもう一度よく聞いて",
+"maxbytes": 63
+},
+{
+"off": "0x1036b0",
+"jp": "みるといいかもしれません。",
+"maxbytes": 127
+},
+{
+"off": "0x103734",
+"jp": "言ったのは斑井さんです。",
+"maxbytes": 63
+},
+{
+"off": "0x103774",
+"jp": "斑井さんという人物像から、想像して",
+"maxbytes": 63
+},
+{
+"off": "0x1037b4",
+"jp": "よく考えてみてください。",
+"maxbytes": 191
+},
+{
+"off": "0x103878",
+"jp": "あなたの良心と真心で犯人の心も救って",
+"maxbytes": 63
+},
+{
+"off": "0x1038b8",
+"jp": "あげてください。",
+"maxbytes": 255
+},
+{
+"off": "0x1039bc",
+"jp": "へー、和が帽子屋なんだー。",
+"maxbytes": 63
+},
+{
+"off": "0x1039fc",
+"jp": "ふーん・・・って、そうなの？！",
+"maxbytes": 63
+},
+{
+"off": "0x103a3c",
+"jp": "・",
+"maxbytes": 63
+},
+{
+"off": "0x103a7c",
+"jp": "・",
+"maxbytes": 63
+},
+{
+"off": "0x103abc",
+"jp": "なんてことは言いませんよ？",
+"maxbytes": 63
+},
+{
+"off": "0x103b00",
+"jp": "もう少し頑張りましょう",
+"maxbytes": 319
+},
+{
+"off": "0x103e82",
+"jp": "舛",
+"maxbytes": 3
+},
+{
+"off": "0x103e9a",
+"jp": "咾",
+"maxbytes": 3
+},
+{
+"off": "0x103eca",
+"jp": "猪",
+"maxbytes": 3
+},
+{
+"off": "0x103ed2",
+"jp": "廚",
+"maxbytes": 3
+},
+{
+"off": "0x103ef2",
+"jp": "辰",
+"maxbytes": 3
+},
+{
+"off": "0x103ef6",
+"jp": "烹",
+"maxbytes": 3
+},
+{
+"off": "0x103efe",
+"jp": "曖",
+"maxbytes": 3
+},
+{
+"off": "0x103f4a",
+"jp": "鼎",
+"maxbytes": 3
+},
+{
+"off": "0x103f52",
+"jp": "気",
+"maxbytes": 3
+},
+{
+"off": "0x103f5a",
+"jp": "曚",
+"maxbytes": 3
+},
+{
+"off": "0x103f72",
+"jp": "曚",
+"maxbytes": 3
+},
+{
+"off": "0x103f8e",
+"jp": "滷",
+"maxbytes": 5
+},
+{
+"off": "0x103fe0",
+"jp": "雨格子の館",
+"maxbytes": 65
+},
+{
+"off": "0x104022",
+"jp": "ＰＳＰ㍉ (ＰｌａｙＳｔａｔｉｏｎ㍉Ｐｏｒｔａｂｌｅ)版",
+"maxbytes": 65
+},
+{
+"off": "0x104064",
+"jp": "スタッフ",
+"maxbytes": 263
+},
+{
+"off": "0x10416c",
+"jp": "シナリオ",
+"maxbytes": 131
+},
+{
+"off": "0x1041f0",
+"jp": "西ノ宮勇希",
+"maxbytes": 197
+},
+{
+"off": "0x1042b6",
+"jp": "グラフィック",
+"maxbytes": 131
+},
+{
+"off": "0x10433a",
+"jp": "上原淳子",
+"maxbytes": 65
+},
+{
+"off": "0x10437c",
+"jp": "辰己拓馬",
+"maxbytes": 65
+},
+{
+"off": "0x104484",
+"jp": "プログラム",
+"maxbytes": 131
+},
+{
+"off": "0x104508",
+"jp": "森本貴大",
+"maxbytes": 65
+},
+{
+"off": "0x10454a",
+"jp": "杉野晴彦",
+"maxbytes": 65
+},
+{
+"off": "0x10458c",
+"jp": "北村雅史",
+"maxbytes": 65
+},
+{
+"off": "0x1045ce",
+"jp": "五嶋大資",
+"maxbytes": 65
+},
+{
+"off": "0x104610",
+"jp": "北島　優",
+"maxbytes": 197
+},
+{
+"off": "0x1046d6",
+"jp": "スクリプト",
+"maxbytes": 131
+},
+{
+"off": "0x10475a",
+"jp": "橋本美佐",
+"maxbytes": 197
+},
+{
+"off": "0x104820",
+"jp": "調整",
+"maxbytes": 131
+},
+{
+"off": "0x1048a4",
+"jp": "浅野健太",
+"maxbytes": 65
+},
+{
+"off": "0x1048e6",
+"jp": "奥西祐太",
+"maxbytes": 65
+},
+{
+"off": "0x104928",
+"jp": "矢野誉幸",
+"maxbytes": 197
+},
+{
+"off": "0x1049ee",
+"jp": "開発管理",
+"maxbytes": 131
+},
+{
+"off": "0x104a72",
+"jp": "木村健史",
+"maxbytes": 197
+},
+{
+"off": "0x104b38",
+"jp": "ロゴデザイン",
+"maxbytes": 131
+},
+{
+"off": "0x104bbc",
+"jp": "亀山友希",
+"maxbytes": 65
+},
+{
+"off": "0x104bfe",
+"jp": "鈴木　敬",
+"maxbytes": 197
+},
+{
+"off": "0x104cc4",
+"jp": "営業・広報",
+"maxbytes": 131
+},
+{
+"off": "0x104d48",
+"jp": "猿橋健蔵",
+"maxbytes": 65
+},
+{
+"off": "0x104d8a",
+"jp": "小酒井省吾",
+"maxbytes": 65
+},
+{
+"off": "0x104dcc",
+"jp": "村松裕基",
+"maxbytes": 65
+},
+{
+"off": "0x104e0e",
+"jp": "阿藤智美",
+"maxbytes": 65
+},
+{
+"off": "0x104e50",
+"jp": "木村英里",
+"maxbytes": 65
+},
+{
+"off": "0x104e92",
+"jp": "箱崎俊太郎",
+"maxbytes": 65
+},
+{
+"off": "0x104ed4",
+"jp": "南谷裕子",
+"maxbytes": 65
+},
+{
+"off": "0x104f16",
+"jp": "杉浦裕美子",
+"maxbytes": 131
+},
+{
+"off": "0x104f9a",
+"jp": "佐藤智洋",
+"maxbytes": 197
+},
+{
+"off": "0x105060",
+"jp": "ウェブデザイン",
+"maxbytes": 131
+},
+{
+"off": "0x1050e4",
+"jp": "佐橋直幸",
+"maxbytes": 65
+},
+{
+"off": "0x105126",
+"jp": "小笠原翔",
+"maxbytes": 65
+},
+{
+"off": "0x105168",
+"jp": "近藤誉子",
+"maxbytes": 197
+},
+{
+"off": "0x10522e",
+"jp": "パッケージデザイン・マニュアルデザイン",
+"maxbytes": 131
+},
+{
+"off": "0x1052b2",
+"jp": "篠田好美",
+"maxbytes": 65
+},
+{
+"off": "0x1052f4",
+"jp": "丸山佳祐",
+"maxbytes": 65
+},
+{
+"off": "0x105336",
+"jp": "亀山友希",
+"maxbytes": 197
+},
+{
+"off": "0x1053fc",
+"jp": "スペシャルサンクス",
+"maxbytes": 131
+},
+{
+"off": "0x105480",
+"jp": "花田瑞穂",
+"maxbytes": 65
+},
+{
+"off": "0x1054c2",
+"jp": "根本一郎",
+"maxbytes": 65
+},
+{
+"off": "0x105504",
+"jp": "小島徹也",
+"maxbytes": 65
+},
+{
+"off": "0x105546",
+"jp": "宮林小奈絵",
+"maxbytes": 65
+},
+{
+"off": "0x105588",
+"jp": "古川隆信",
+"maxbytes": 65
+},
+{
+"off": "0x1055ca",
+"jp": "長谷川剛",
+"maxbytes": 65
+},
+{
+"off": "0x10560c",
+"jp": "簗瀬涼司",
+"maxbytes": 263
+},
+{
+"off": "0x105714",
+"jp": "協力",
+"maxbytes": 131
+},
+{
+"off": "0x105798",
+"jp": "株式会社ソニー・コンピュータエンタテインメント",
+"maxbytes": 65
+},
+{
+"off": "0x1057da",
+"jp": "株式会社フォグ",
+"maxbytes": 65
+},
+{
+"off": "0x10581c",
+"jp": "ＮＩＳ　Ａｍｅｒｉｃａ，Ｉｎｃ．",
+"maxbytes": 65
+},
+{
+"off": "0x10585e",
+"jp": "株式会社デジタルハーツ",
+"maxbytes": 263
+},
+{
+"off": "0x105966",
+"jp": "監修",
+"maxbytes": 131
+},
+{
+"off": "0x1059ea",
+"jp": "宗清紀之",
+"maxbytes": 263
+},
+{
+"off": "0x105af2",
+"jp": "プロデューサー",
+"maxbytes": 131
+},
+{
+"off": "0x105b76",
+"jp": "井上恵一",
+"maxbytes": 263
+},
+{
+"off": "0x105c7e",
+"jp": "エグゼクティブプロデューサー",
+"maxbytes": 131
+},
+{
+"off": "0x105d02",
+"jp": "北角浩一",
+"maxbytes": 65
+},
+{
+"off": "0x105d44",
+"jp": "新川宗平",
+"maxbytes": 263
+},
+{
+"off": "0x105e4c",
+"jp": "開発",
+"maxbytes": 131
+},
+{
+"off": "0x105ed0",
+"jp": "株式会社システムプリズマ",
+"maxbytes": 263
+},
+{
+"off": "0x105fd8",
+"jp": "企画・制作",
+"maxbytes": 131
+},
+{
+"off": "0x10605c",
+"jp": "株式会社日本一ソフトウェア",
+"maxbytes": 461
+},
+{
+"off": "0x10622a",
+"jp": "オリジナルスタッフ",
+"maxbytes": 329
+},
+{
+"off": "0x106374",
+"jp": "企画",
+"maxbytes": 131
+},
+{
+"off": "0x1063f8",
+"jp": "西ノ宮勇希",
+"maxbytes": 65
+},
+{
+"off": "0x10643a",
+"jp": "橋本美佐",
+"maxbytes": 197
+},
+{
+"off": "0x106500",
+"jp": "シナリオ",
+"maxbytes": 131
+},
+{
+"off": "0x106584",
+"jp": "西ノ宮勇希",
+"maxbytes": 197
+},
+{
+"off": "0x10664a",
+"jp": "キャラクターデザイン・原画",
+"maxbytes": 131
+},
+{
+"off": "0x1066ce",
+"jp": "西野幸治",
+"maxbytes": 197
+},
+{
+"off": "0x106794",
+"jp": "グラフィック",
+"maxbytes": 131
+},
+{
+"off": "0x106818",
+"jp": "宮永幸一郎",
+"maxbytes": 65
+},
+{
+"off": "0x10685a",
+"jp": "上原淳子",
+"maxbytes": 65
+},
+{
+"off": "0x10689c",
+"jp": "Ｍ佳",
+"maxbytes": 197
+},
+{
+"off": "0x106962",
+"jp": "背景グラフィックディレクター",
+"maxbytes": 131
+},
+{
+"off": "0x1069e6",
+"jp": "桑谷貴志",
+"maxbytes": 197
+},
+{
+"off": "0x106aac",
+"jp": "背景グラフィック",
+"maxbytes": 131
+},
+{
+"off": "0x106b30",
+"jp": "大川新吾",
+"maxbytes": 65
+},
+{
+"off": "0x106b72",
+"jp": "越野純一",
+"maxbytes": 65
+},
+{
+"off": "0x106bb4",
+"jp": "本木正洋",
+"maxbytes": 65
+},
+{
+"off": "0x106bf6",
+"jp": "寺尾昌之",
+"maxbytes": 65
+},
+{
+"off": "0x106c38",
+"jp": "茂木　亘",
+"maxbytes": 197
+},
+{
+"off": "0x106cfe",
+"jp": "背景制作進行",
+"maxbytes": 131
+},
+{
+"off": "0x106d82",
+"jp": "平尾朋博",
+"maxbytes": 197
+},
+{
+"off": "0x106e48",
+"jp": "美術監督",
+"maxbytes": 131
+},
+{
+"off": "0x106ecc",
+"jp": "宮永幸一郎",
+"maxbytes": 197
+},
+{
+"off": "0x106f92",
+"jp": "サウンド",
+"maxbytes": 131
+},
+{
+"off": "0x107016",
+"jp": "橋本美佐",
+"maxbytes": 65
+},
+{
+"off": "0x107058",
+"jp": "新保拓之",
+"maxbytes": 65
+},
+{
+"off": "0x10709a",
+"jp": "森永康之",
+"maxbytes": 197
+},
+{
+"off": "0x107160",
+"jp": "プログラム",
+"maxbytes": 131
+},
+{
+"off": "0x1071e4",
+"jp": "北村雅史",
+"maxbytes": 65
+},
+{
+"off": "0x107226",
+"jp": "杉野晴彦",
+"maxbytes": 65
+},
+{
+"off": "0x107268",
+"jp": "田口健太郎",
+"maxbytes": 65
+},
+{
+"off": "0x1072aa",
+"jp": "富野裕樹",
+"maxbytes": 65
+},
+{
+"off": "0x1072ec",
+"jp": "木村健史",
+"maxbytes": 197
+},
+{
+"off": "0x1073b2",
+"jp": "スクリプト",
+"maxbytes": 131
+},
+{
+"off": "0x107436",
+"jp": "橋本美佐",
+"maxbytes": 65
+},
+{
+"off": "0x107478",
+"jp": "森本貴大",
+"maxbytes": 65
+},
+{
+"off": "0x1074ba",
+"jp": "上原淳子",
+"maxbytes": 197
+},
+{
+"off": "0x107580",
+"jp": "調整",
+"maxbytes": 131
+},
+{
+"off": "0x107604",
+"jp": "玉城正至",
+"maxbytes": 65
+},
+{
+"off": "0x107646",
+"jp": "北島　優",
+"maxbytes": 197
+},
+{
+"off": "0x10770c",
+"jp": "開発管理",
+"maxbytes": 131
+},
+{
+"off": "0x107790",
+"jp": "木村健史",
+"maxbytes": 197
+},
+{
+"off": "0x107856",
+"jp": "営業",
+"maxbytes": 131
+},
+{
+"off": "0x1078da",
+"jp": "今　浩之",
+"maxbytes": 65
+},
+{
+"off": "0x10791c",
+"jp": "長谷康世",
+"maxbytes": 65
+},
+{
+"off": "0x10795e",
+"jp": "猿橋健蔵",
+"maxbytes": 65
+},
+{
+"off": "0x1079a0",
+"jp": "片桐芳彦",
+"maxbytes": 65
+},
+{
+"off": "0x1079e2",
+"jp": "小酒井省吾",
+"maxbytes": 65
+},
+{
+"off": "0x107a24",
+"jp": "杉浦裕美子",
+"maxbytes": 197
+},
+{
+"off": "0x107aea",
+"jp": "広報",
+"maxbytes": 131
+},
+{
+"off": "0x107b6e",
+"jp": "井上恵一",
+"maxbytes": 197
+},
+{
+"off": "0x107c34",
+"jp": "マニュアルデザイン",
+"maxbytes": 131
+},
+{
+"off": "0x107cb8",
+"jp": "篠田好美",
+"maxbytes": 197
+},
+{
+"off": "0x107d7e",
+"jp": "ロゴデザイン",
+"maxbytes": 131
+},
+{
+"off": "0x107e02",
+"jp": "鈴木　敬",
+"maxbytes": 197
+},
+{
+"off": "0x107ec8",
+"jp": "スペシャルサンクス",
+"maxbytes": 131
+},
+{
+"off": "0x107f4c",
+"jp": "泉　達也",
+"maxbytes": 65
+},
+{
+"off": "0x107f8e",
+"jp": "浅田美香",
+"maxbytes": 65
+},
+{
+"off": "0x107fd0",
+"jp": "中井智惠子",
+"maxbytes": 65
+},
+{
+"off": "0x108012",
+"jp": "五嶋大資",
+"maxbytes": 65
+},
+{
+"off": "0x108054",
+"jp": "木村妙美",
+"maxbytes": 65
+},
+{
+"off": "0x108096",
+"jp": "牧野しのぶ",
+"maxbytes": 131
+},
+{
+"off": "0x10811a",
+"jp": "桂山孝一郎",
+"maxbytes": 65
+},
+{
+"off": "0x10815c",
+"jp": "川原寿之",
+"maxbytes": 65
+},
+{
+"off": "0x10819e",
+"jp": "井上美和",
+"maxbytes": 131
+},
+{
+"off": "0x108222",
+"jp": "絹脇康司",
+"maxbytes": 263
+},
+{
+"off": "0x10832a",
+"jp": "協力",
+"maxbytes": 131
+},
+{
+"off": "0x1083ae",
+"jp": "株式会社デジタルゼロ",
+"maxbytes": 65
+},
+{
+"off": "0x1083f0",
+"jp": "有限会社Ｔ・コンソート",
+"maxbytes": 65
+},
+{
+"off": "0x108432",
+"jp": "株式会社デジタルハーツ",
+"maxbytes": 263
+},
+{
+"off": "0x10853a",
+"jp": "プロデューサー",
+"maxbytes": 131
+},
+{
+"off": "0x1085be",
+"jp": "新川宗平",
+"maxbytes": 263
+},
+{
+"off": "0x1086c6",
+"jp": "エグゼクティブ・プロデューサー",
+"maxbytes": 131
+},
+{
+"off": "0x10874a",
+"jp": "北角浩一",
+"maxbytes": 65
+},
+{
+"off": "0x10878c",
+"jp": "宗清紀之",
+"maxbytes": 395
+},
+{
+"off": "0x108918",
+"jp": "開発",
+"maxbytes": 131
+},
+{
+"off": "0x10899c",
+"jp": "株式会社システムプリズマ",
+"maxbytes": 393
+},
+{
+"off": "0x108b28",
+"jp": "制作・著作",
+"maxbytes": 63
+},
+{
+"off": "0x108bac",
+"jp": "株式会社日本一ソフトウェア",
+"maxbytes": 63
+},
+{
+"off": "0x108c30",
+"jp": "株式会社フォグ",
+"maxbytes": 195
+},
+{
+"off": "0x108d3a",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x108d7c",
+"jp": "雨格子の館",
+"maxbytes": 65
+},
+{
+"off": "0x108dbe",
+"jp": "ＰＳＰ㍉ (ＰｌａｙＳｔａｔｉｏｎ㍉Ｐｏｒｔａｂｌｅ)版",
+"maxbytes": 65
+},
+{
+"off": "0x108e00",
+"jp": "スタッフ",
+"maxbytes": 131
+},
+{
+"off": "0x108e84",
+"jp": "シナリオ",
+"maxbytes": 65
+},
+{
+"off": "0x108ec6",
+"jp": "西ノ宮勇希",
+"maxbytes": 131
+},
+{
+"off": "0x108f4a",
+"jp": "グラフィック",
+"maxbytes": 65
+},
+{
+"off": "0x108f8c",
+"jp": "上原淳子",
+"maxbytes": 65
+},
+{
+"off": "0x108fce",
+"jp": "辰己拓馬",
+"maxbytes": 65
+},
+{
+"off": "0x109094",
+"jp": "プログラム",
+"maxbytes": 65
+},
+{
+"off": "0x1090d6",
+"jp": "森本貴大",
+"maxbytes": 65
+},
+{
+"off": "0x109118",
+"jp": "杉野晴彦",
+"maxbytes": 65
+},
+{
+"off": "0x10915a",
+"jp": "北村雅史",
+"maxbytes": 65
+},
+{
+"off": "0x10919c",
+"jp": "五嶋大資",
+"maxbytes": 65
+},
+{
+"off": "0x1091de",
+"jp": "北島　優",
+"maxbytes": 131
+},
+{
+"off": "0x109262",
+"jp": "スクリプト",
+"maxbytes": 65
+},
+{
+"off": "0x1092a4",
+"jp": "橋本美佐",
+"maxbytes": 131
+},
+{
+"off": "0x109328",
+"jp": "調整",
+"maxbytes": 65
+},
+{
+"off": "0x10936a",
+"jp": "浅野健太",
+"maxbytes": 65
+},
+{
+"off": "0x1093ac",
+"jp": "奥西祐太",
+"maxbytes": 65
+},
+{
+"off": "0x1093ee",
+"jp": "矢野誉幸",
+"maxbytes": 131
+},
+{
+"off": "0x109472",
+"jp": "開発管理",
+"maxbytes": 65
+},
+{
+"off": "0x1094b4",
+"jp": "木村健史",
+"maxbytes": 131
+},
+{
+"off": "0x109538",
+"jp": "ロゴデザイン",
+"maxbytes": 65
+},
+{
+"off": "0x10957a",
+"jp": "亀山友希",
+"maxbytes": 65
+},
+{
+"off": "0x1095bc",
+"jp": "鈴木　敬",
+"maxbytes": 63
+},
+{
+"off": "0x1095fe",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x109640",
+"jp": "営業・広報",
+"maxbytes": 65
+},
+{
+"off": "0x109682",
+"jp": "猿橋健蔵",
+"maxbytes": 65
+},
+{
+"off": "0x1096c4",
+"jp": "小酒井省吾",
+"maxbytes": 65
+},
+{
+"off": "0x109706",
+"jp": "村松裕基",
+"maxbytes": 65
+},
+{
+"off": "0x109748",
+"jp": "阿藤智美",
+"maxbytes": 65
+},
+{
+"off": "0x10978a",
+"jp": "木村英里",
+"maxbytes": 65
+},
+{
+"off": "0x1097cc",
+"jp": "箱崎俊太郎",
+"maxbytes": 65
+},
+{
+"off": "0x10980e",
+"jp": "南谷裕子",
+"maxbytes": 65
+},
+{
+"off": "0x109850",
+"jp": "杉浦裕美子",
+"maxbytes": 131
+},
+{
+"off": "0x1098d4",
+"jp": "佐藤智洋",
+"maxbytes": 197
+},
+{
+"off": "0x10999a",
+"jp": "ウェブデザイン",
+"maxbytes": 65
+},
+{
+"off": "0x1099dc",
+"jp": "佐橋直幸",
+"maxbytes": 65
+},
+{
+"off": "0x109a1e",
+"jp": "小笠原翔",
+"maxbytes": 65
+},
+{
+"off": "0x109a60",
+"jp": "近藤誉子",
+"maxbytes": 197
+},
+{
+"off": "0x109b26",
+"jp": "パッケージデザイン・マニュアルデザイン",
+"maxbytes": 65
+},
+{
+"off": "0x109b68",
+"jp": "篠田好美",
+"maxbytes": 65
+},
+{
+"off": "0x109baa",
+"jp": "丸山佳祐",
+"maxbytes": 65
+},
+{
+"off": "0x109bec",
+"jp": "亀山友希",
+"maxbytes": 63
+},
+{
+"off": "0x109c2e",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x109c70",
+"jp": "スペシャルサンクス",
+"maxbytes": 65
+},
+{
+"off": "0x109cb2",
+"jp": "花田瑞穂",
+"maxbytes": 65
+},
+{
+"off": "0x109cf4",
+"jp": "根本一郎",
+"maxbytes": 65
+},
+{
+"off": "0x109d36",
+"jp": "小島徹也",
+"maxbytes": 65
+},
+{
+"off": "0x109d78",
+"jp": "宮林小奈絵",
+"maxbytes": 65
+},
+{
+"off": "0x109dba",
+"jp": "古川隆信",
+"maxbytes": 65
+},
+{
+"off": "0x109dfc",
+"jp": "長谷川剛",
+"maxbytes": 65
+},
+{
+"off": "0x109e3e",
+"jp": "簗瀬涼司",
+"maxbytes": 197
+},
+{
+"off": "0x109f04",
+"jp": "協力",
+"maxbytes": 65
+},
+{
+"off": "0x109f46",
+"jp": "株式会社ソニー・コンピュータエンタテインメント",
+"maxbytes": 65
+},
+{
+"off": "0x109f88",
+"jp": "株式会社フォグ",
+"maxbytes": 65
+},
+{
+"off": "0x109fca",
+"jp": "ＮＩＳ　Ａｍｅｒｉｃａ，Ｉｎｃ．",
+"maxbytes": 65
+},
+{
+"off": "0x10a00c",
+"jp": "株式会社デジタルハーツ",
+"maxbytes": 63
+},
+{
+"off": "0x10a04e",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10a090",
+"jp": "監修",
+"maxbytes": 65
+},
+{
+"off": "0x10a0d2",
+"jp": "宗清紀之",
+"maxbytes": 197
+},
+{
+"off": "0x10a198",
+"jp": "プロデューサー",
+"maxbytes": 65
+},
+{
+"off": "0x10a1da",
+"jp": "井上恵一",
+"maxbytes": 197
+},
+{
+"off": "0x10a2a0",
+"jp": "エグゼクティブプロデューサー",
+"maxbytes": 65
+},
+{
+"off": "0x10a2e2",
+"jp": "北角浩一",
+"maxbytes": 65
+},
+{
+"off": "0x10a324",
+"jp": "新川宗平",
+"maxbytes": 197
+},
+{
+"off": "0x10a3ea",
+"jp": "開発",
+"maxbytes": 65
+},
+{
+"off": "0x10a42c",
+"jp": "株式会社システムプリズマ",
+"maxbytes": 197
+},
+{
+"off": "0x10a4f2",
+"jp": "企画・制作",
+"maxbytes": 65
+},
+{
+"off": "0x10a534",
+"jp": "株式会社日本一ソフトウェア",
+"maxbytes": 63
+},
+{
+"off": "0x10a576",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10a5b8",
+"jp": "オリジナルスタッフ",
+"maxbytes": 65
+},
+{
+"off": "0x10a5fa",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10a63c",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10a67e",
+"jp": "企画",
+"maxbytes": 65
+},
+{
+"off": "0x10a6c0",
+"jp": "西ノ宮勇希",
+"maxbytes": 65
+},
+{
+"off": "0x10a702",
+"jp": "橋本美佐",
+"maxbytes": 131
+},
+{
+"off": "0x10a786",
+"jp": "シナリオ",
+"maxbytes": 65
+},
+{
+"off": "0x10a7c8",
+"jp": "西ノ宮勇希",
+"maxbytes": 131
+},
+{
+"off": "0x10a84c",
+"jp": "キャラクターデザイン・原画",
+"maxbytes": 65
+},
+{
+"off": "0x10a88e",
+"jp": "西野幸治",
+"maxbytes": 131
+},
+{
+"off": "0x10a912",
+"jp": "グラフィック",
+"maxbytes": 65
+},
+{
+"off": "0x10a954",
+"jp": "宮永幸一郎",
+"maxbytes": 65
+},
+{
+"off": "0x10a996",
+"jp": "上原淳子",
+"maxbytes": 65
+},
+{
+"off": "0x10a9d8",
+"jp": "Ｍ佳",
+"maxbytes": 131
+},
+{
+"off": "0x10aa5c",
+"jp": "背景グラフィックディレクター",
+"maxbytes": 65
+},
+{
+"off": "0x10aa9e",
+"jp": "桑谷貴志",
+"maxbytes": 63
+},
+{
+"off": "0x10aae0",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10ab22",
+"jp": "背景グラフィック",
+"maxbytes": 65
+},
+{
+"off": "0x10ab64",
+"jp": "大川新吾",
+"maxbytes": 65
+},
+{
+"off": "0x10aba6",
+"jp": "越野純一",
+"maxbytes": 65
+},
+{
+"off": "0x10abe8",
+"jp": "本木正洋",
+"maxbytes": 65
+},
+{
+"off": "0x10ac2a",
+"jp": "寺尾昌之",
+"maxbytes": 65
+},
+{
+"off": "0x10ac6c",
+"jp": "茂木　亘",
+"maxbytes": 131
+},
+{
+"off": "0x10acf0",
+"jp": "背景制作進行",
+"maxbytes": 65
+},
+{
+"off": "0x10ad32",
+"jp": "平尾朋博",
+"maxbytes": 131
+},
+{
+"off": "0x10adb6",
+"jp": "美術監督",
+"maxbytes": 65
+},
+{
+"off": "0x10adf8",
+"jp": "宮永幸一郎",
+"maxbytes": 131
+},
+{
+"off": "0x10ae7c",
+"jp": "サウンド",
+"maxbytes": 65
+},
+{
+"off": "0x10aebe",
+"jp": "橋本美佐",
+"maxbytes": 65
+},
+{
+"off": "0x10af00",
+"jp": "新保拓之",
+"maxbytes": 65
+},
+{
+"off": "0x10af42",
+"jp": "森永康之",
+"maxbytes": 131
+},
+{
+"off": "0x10afc6",
+"jp": "プログラム",
+"maxbytes": 65
+},
+{
+"off": "0x10b008",
+"jp": "北村雅史",
+"maxbytes": 65
+},
+{
+"off": "0x10b04a",
+"jp": "杉野晴彦",
+"maxbytes": 65
+},
+{
+"off": "0x10b08c",
+"jp": "田口健太郎",
+"maxbytes": 65
+},
+{
+"off": "0x10b0ce",
+"jp": "富野裕樹",
+"maxbytes": 65
+},
+{
+"off": "0x10b110",
+"jp": "木村健史",
+"maxbytes": 63
+},
+{
+"off": "0x10b152",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10b194",
+"jp": "スクリプト",
+"maxbytes": 65
+},
+{
+"off": "0x10b1d6",
+"jp": "橋本美佐",
+"maxbytes": 65
+},
+{
+"off": "0x10b218",
+"jp": "森本貴大",
+"maxbytes": 65
+},
+{
+"off": "0x10b25a",
+"jp": "上原淳子",
+"maxbytes": 131
+},
+{
+"off": "0x10b2de",
+"jp": "調整",
+"maxbytes": 65
+},
+{
+"off": "0x10b320",
+"jp": "玉城正至",
+"maxbytes": 65
+},
+{
+"off": "0x10b362",
+"jp": "北島　優",
+"maxbytes": 131
+},
+{
+"off": "0x10b3e6",
+"jp": "開発管理",
+"maxbytes": 65
+},
+{
+"off": "0x10b428",
+"jp": "木村健史",
+"maxbytes": 131
+},
+{
+"off": "0x10b4ac",
+"jp": "営業",
+"maxbytes": 65
+},
+{
+"off": "0x10b4ee",
+"jp": "今　浩之",
+"maxbytes": 65
+},
+{
+"off": "0x10b530",
+"jp": "長谷康世",
+"maxbytes": 65
+},
+{
+"off": "0x10b572",
+"jp": "猿橋健蔵",
+"maxbytes": 65
+},
+{
+"off": "0x10b5b4",
+"jp": "片桐芳彦",
+"maxbytes": 65
+},
+{
+"off": "0x10b5f6",
+"jp": "小酒井省吾",
+"maxbytes": 65
+},
+{
+"off": "0x10b638",
+"jp": "杉浦裕美子",
+"maxbytes": 63
+},
+{
+"off": "0x10b67a",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10b6bc",
+"jp": "広報",
+"maxbytes": 65
+},
+{
+"off": "0x10b6fe",
+"jp": "井上恵一",
+"maxbytes": 65
+},
+{
+"off": "0x10b740",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10b782",
+"jp": "マニュアルデザイン",
+"maxbytes": 65
+},
+{
+"off": "0x10b7c4",
+"jp": "篠田好美",
+"maxbytes": 131
+},
+{
+"off": "0x10b848",
+"jp": "ロゴデザイン",
+"maxbytes": 65
+},
+{
+"off": "0x10b88a",
+"jp": "鈴木　敬",
+"maxbytes": 131
+},
+{
+"off": "0x10b90e",
+"jp": "スペシャルサンクス",
+"maxbytes": 65
+},
+{
+"off": "0x10b950",
+"jp": "泉　達也",
+"maxbytes": 65
+},
+{
+"off": "0x10b992",
+"jp": "浅田美香",
+"maxbytes": 65
+},
+{
+"off": "0x10b9d4",
+"jp": "中井智惠子",
+"maxbytes": 65
+},
+{
+"off": "0x10ba16",
+"jp": "五嶋大資",
+"maxbytes": 65
+},
+{
+"off": "0x10ba58",
+"jp": "木村妙美",
+"maxbytes": 65
+},
+{
+"off": "0x10ba9a",
+"jp": "牧野しのぶ",
+"maxbytes": 131
+},
+{
+"off": "0x10bb1e",
+"jp": "桂山孝一郎",
+"maxbytes": 65
+},
+{
+"off": "0x10bb60",
+"jp": "川原寿之",
+"maxbytes": 65
+},
+{
+"off": "0x10bba2",
+"jp": "井上美和",
+"maxbytes": 131
+},
+{
+"off": "0x10bc26",
+"jp": "絹脇康司",
+"maxbytes": 131
+},
+{
+"off": "0x10bcaa",
+"jp": "協力",
+"maxbytes": 65
+},
+{
+"off": "0x10bcec",
+"jp": "株式会社デジタルゼロ",
+"maxbytes": 65
+},
+{
+"off": "0x10bd2e",
+"jp": "有限会社Ｔ・コンソート",
+"maxbytes": 65
+},
+{
+"off": "0x10bd70",
+"jp": "株式会社デジタルハーツ",
+"maxbytes": 63
+},
+{
+"off": "0x10bdb2",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10bdf4",
+"jp": "プロデューサー",
+"maxbytes": 65
+},
+{
+"off": "0x10be36",
+"jp": "新川宗平",
+"maxbytes": 65
+},
+{
+"off": "0x10be78",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10beba",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10befc",
+"jp": "エグゼクティブ・プロデューサー",
+"maxbytes": 65
+},
+{
+"off": "0x10bf3e",
+"jp": "北角浩一",
+"maxbytes": 65
+},
+{
+"off": "0x10bf80",
+"jp": "宗清紀之",
+"maxbytes": 197
+},
+{
+"off": "0x10c046",
+"jp": "開発",
+"maxbytes": 65
+},
+{
+"off": "0x10c088",
+"jp": "株式会社システムプリズマ",
+"maxbytes": 65
+},
+{
+"off": "0x10c0ca",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10c10c",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10c14e",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10c190",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10c1d2",
+"jp": "　",
+"maxbytes": 65
+},
+{
+"off": "0x10c214",
+"jp": "　",
+"maxbytes": 63
+},
+{
+"off": "0x10c256",
+"jp": "制作・著作",
+"maxbytes": 63
+},
+{
+"off": "0x10c2da",
+"jp": "株式会社日本一ソフトウェア",
+"maxbytes": 63
+},
+{
+"off": "0x10c35e",
+"jp": "株式会社フォグ",
+"maxbytes": 63
+},
+{
+"off": "0x10c7b4",
+"jp": "カレンダーの下にある　　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10c7f4",
+"jp": "【Ａｃｔｉｏｎ　Ｇａｕｇｅ】を",
+"maxbytes": 63
+},
+{
+"off": "0x10c834",
+"jp": "見てください。　　　　　　　　",
+"maxbytes": 319
+},
+{
+"off": "0x10c980",
+"jp": "時間のようなものを示しています。　",
+"maxbytes": 63
+},
+{
+"off": "0x10c9c0",
+"jp": "つまり、何か行動する度にゲージの　",
+"maxbytes": 63
+},
+{
+"off": "0x10ca00",
+"jp": "残量が減っていきます。　　　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10ca40",
+"jp": "自由に行動できる時間が、どれくらい",
+"maxbytes": 63
+},
+{
+"off": "0x10ca80",
+"jp": "残っているのか注意してください。　",
+"maxbytes": 203
+},
+{
+"off": "0x10cb4c",
+"jp": "移動してみましょう。",
+"maxbytes": 459
+},
+{
+"off": "0x10cd18",
+"jp": "まずは居間に向かってください。",
+"maxbytes": 459
+},
+{
+"off": "0x10cee4",
+"jp": "それでは、メニューから『調べる』を",
+"maxbytes": 63
+},
+{
+"off": "0x10cf24",
+"jp": "選択してみましょう。　　　　　　　",
+"maxbytes": 395
+},
+{
+"off": "0x10d0b0",
+"jp": "『調べる』を選んでください。",
+"maxbytes": 459
+},
+{
+"off": "0x10d27c",
+"jp": "何かを選択して行動を起こすと、",
+"maxbytes": 63
+},
+{
+"off": "0x10d2bc",
+"jp": "その行動に応じた『コスト』が　",
+"maxbytes": 63
+},
+{
+"off": "0x10d2fc",
+"jp": "発生します。　　　　　　　　　",
+"maxbytes": 331
+},
+{
+"off": "0x10d448",
+"jp": "この『コスト』が０になると　　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10d488",
+"jp": "自由に移動できる時間が終了します。　",
+"maxbytes": 63
+},
+{
+"off": "0x10d4c8",
+"jp": "自分が後どれくらい行動できるのかは　",
+"maxbytes": 63
+},
+{
+"off": "0x10d508",
+"jp": "【Ａｃｔｉｏｎ　Ｇａｕｇｅ】を目安に",
+"maxbytes": 63
+},
+{
+"off": "0x10d548",
+"jp": "してください。　　　　　　　　　　　",
+"maxbytes": 203
+},
+{
+"off": "0x10d614",
+"jp": "それでは、次は【ロースン】へ　",
+"maxbytes": 63
+},
+{
+"off": "0x10d654",
+"jp": "移動してみましょう。　　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10d694",
+"jp": "もう一度移動を押してください。",
+"maxbytes": 331
+},
+{
+"off": "0x10d7e0",
+"jp": "部屋の中に人が在室の時には、　　",
+"maxbytes": 63
+},
+{
+"off": "0x10d820",
+"jp": "その人と話をすることができます。",
+"maxbytes": 63
+},
+{
+"off": "0x10d860",
+"jp": "また初対面の印象が良ければ　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10d8a0",
+"jp": "個人に割り当てられた部屋の中　　",
+"maxbytes": 63
+},
+{
+"off": "0x10d8e0",
+"jp": "でも調べることができます。　　　",
+"maxbytes": 203
+},
+{
+"off": "0x10d9ac",
+"jp": "それではメニューより『話す』を",
+"maxbytes": 63
+},
+{
+"off": "0x10d9ec",
+"jp": "選択してください。　　　　　　",
+"maxbytes": 395
+},
+{
+"off": "0x10db78",
+"jp": "『話す』を選択してください。",
+"maxbytes": 459
+},
+{
+"off": "0x10dd44",
+"jp": "人のいる部屋から、退室したい時は　　",
+"maxbytes": 63
+},
+{
+"off": "0x10dd84",
+"jp": "『移動』コマンドを実行します。　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10ddc4",
+"jp": "『移動』コマンドを選択してください。",
+"maxbytes": 331
+},
+{
+"off": "0x10df10",
+"jp": "１Ｆのホールへ移動してください。　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10df50",
+"jp": "【Ａｃｔｉｏｎ　Ｇａｕｇｅ】の減りに注目",
+"maxbytes": 63
+},
+{
+"off": "0x10df90",
+"jp": "してください。　　　　　　　　　　　　　",
+"maxbytes": 331
+},
+{
+"off": "0x10e0dc",
+"jp": "続いて書斎へ移動してください。　　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10e11c",
+"jp": "【Ａｃｔｉｏｎ　Ｇａｕｇｅ】の減りに注目",
+"maxbytes": 63
+},
+{
+"off": "0x10e15c",
+"jp": "してください。　　　　　　　　　　　　　",
+"maxbytes": 331
+},
+{
+"off": "0x10e2a8",
+"jp": "書斎にも様々な情報があります。",
+"maxbytes": 63
+},
+{
+"off": "0x10e2e8",
+"jp": "本が沢山あり、本からでしか得ら",
+"maxbytes": 63
+},
+{
+"off": "0x10e328",
+"jp": "れない情報もあります。　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10e368",
+"jp": "本を読むには、『調べる』で読み",
+"maxbytes": 63
+},
+{
+"off": "0x10e3a8",
+"jp": "たい本のある書棚を選択します。",
+"maxbytes": 203
+},
+{
+"off": "0x10e474",
+"jp": "書棚を選んでください。",
+"maxbytes": 459
+},
+{
+"off": "0x10e640",
+"jp": "本を一冊選んでみてください。",
+"maxbytes": 459
+},
+{
+"off": "0x10e80c",
+"jp": "『調べる』を終了してください。",
+"maxbytes": 459
+},
+{
+"off": "0x10e9d8",
+"jp": "書斎（ノックス）には多くの本があり、",
+"maxbytes": 63
+},
+{
+"off": "0x10ea18",
+"jp": "重要な手がかりや情報が紛れている　　",
+"maxbytes": 63
+},
+{
+"off": "0x10ea58",
+"jp": "ことがあります。　　　　　　　　　　",
+"maxbytes": 331
+},
+{
+"off": "0x10eba4",
+"jp": "メニューから『情報』を選択して",
+"maxbytes": 63
+},
+{
+"off": "0x10ebe4",
+"jp": "ください。　　　　　　　　　　",
+"maxbytes": 395
+},
+{
+"off": "0x10ed70",
+"jp": "情報を×ボタンでキャンセルして",
+"maxbytes": 63
+},
+{
+"off": "0x10edb0",
+"jp": "ください。　　　　　　　　　　",
+"maxbytes": 395
+},
+{
+"off": "0x10ef3c",
+"jp": "『移動』を選択してください。",
+"maxbytes": 459
+},
+{
+"off": "0x10f108",
+"jp": "これで任意移動のガイドは終了",
+"maxbytes": 63
+},
+{
+"off": "0x10f148",
+"jp": "します。　　　　　　　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10f188",
+"jp": "この後は自由に動き回って　　",
+"maxbytes": 63
+},
+{
+"off": "0x10f1c8",
+"jp": "みましょう。　　　　　　　　",
+"maxbytes": 267
+},
+{
+"off": "0x10f2d4",
+"jp": "もし何から、手をつければいいのか　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10f314",
+"jp": "判らないのであれば、昨晩起った　　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10f354",
+"jp": "事件の現場（井戸や駐車場など）を　　　",
+"maxbytes": 63
+},
+{
+"off": "0x10f394",
+"jp": "順番に回ってみるといいかもしれません。",
+"maxbytes": 267
+},
+{
+"off": "0x10f4a0",
+"jp": "また今後の状況の進展次第では",
+"maxbytes": 63
+},
+{
+"off": "0x10f4e0",
+"jp": "出来る行動も増えていきます。",
+"maxbytes": 395
+},
+{
+"off": "0x10f66c",
+"jp": "通常の任意行動中では、約２５回～",
+"maxbytes": 63
+},
+{
+"off": "0x10f6ac",
+"jp": "１００回程度、物品を調べることの",
+"maxbytes": 63
+},
+{
+"off": "0x10f6ec",
+"jp": "できる最大行動量がありますが、　",
+"maxbytes": 63
+},
+{
+"off": "0x10f72c",
+"jp": "移動の行動量が判りやすいように　",
+"maxbytes": 63
+},
+{
+"off": "0x10f76c",
+"jp": "５回分くらいに減らしてみます。　",
+"maxbytes": 203
+},
+{
+"off": "0x10f838",
+"jp": "【Ａｃｔｉｏｎ　Ｇａｕｇｅ】の減りに",
+"maxbytes": 63
+},
+{
+"off": "0x10f878",
+"jp": "注目してください。　　　　　　　　　",
+"maxbytes": 395
+},
+{
+"off": "0x10fa04",
+"jp": "では【Ａｃｔｉｏｎ　Ｇａｕｇｅ】を元の最大",
+"maxbytes": 63
+},
+{
+"off": "0x10fa44",
+"jp": "行動量に戻します。　　　　　　　　　　　　",
+"maxbytes": 395
+},
+{
+"off": "0x10fbd0",
+"jp": "【ＥＡＳＹ　ＭＯＤＥ】において、重要な",
+"maxbytes": 63
+},
+{
+"off": "0x10fc10",
+"jp": "証言やヒントなどを得た時に、このように",
+"maxbytes": 63
+},
+{
+"off": "0x10fc50",
+"jp": "効果音がなることがあります。　　　　　",
+"maxbytes": 319
+},
+{
+"off": "0x111267",
+"jp": "<\\舮$!(",
+"maxbytes": 8
+}
+]

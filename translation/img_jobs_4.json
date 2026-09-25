@@ -1,0 +1,614 @@
+[
+{
+"name": "M01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M01.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M02",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M02.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M03",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M03.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M04",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M04.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M05",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M05.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M06",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M06.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M07",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M07.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M08",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M08.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M09",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M09.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M10",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M10.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M11",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M11.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M12",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M12.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M13",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M13.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M14",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M14.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M15",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M15.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M16",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M16.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M17",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M17.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "M18",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\M18.png",
+"lines": 1,
+"max_chars": [
+31
+]
+},
+{
+"name": "OPMOJI",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\OPMOJI.png",
+"lines": 6,
+"max_chars": [
+26,
+27,
+27,
+25,
+27,
+20
+]
+},
+{
+"name": "TUT01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT01.png",
+"lines": 1,
+"max_chars": [
+2
+]
+},
+{
+"name": "TUT02",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT02.png",
+"lines": 1,
+"max_chars": [
+2
+]
+},
+{
+"name": "TUT03",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT03.png",
+"lines": 1,
+"max_chars": [
+2
+]
+},
+{
+"name": "TUT04",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT04.png",
+"lines": 2,
+"max_chars": [
+16,
+18
+]
+},
+{
+"name": "TUT05",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT05.png",
+"lines": 4,
+"max_chars": [
+17,
+17,
+17,
+17
+]
+},
+{
+"name": "TUT06",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT06.png",
+"lines": 5,
+"max_chars": [
+17,
+17,
+18,
+17,
+18
+]
+},
+{
+"name": "TUT07",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT07.png",
+"lines": 3,
+"max_chars": [
+18,
+17,
+17
+]
+},
+{
+"name": "TUT08",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT08.png",
+"lines": 3,
+"max_chars": [
+17,
+17,
+18
+]
+},
+{
+"name": "TUT09",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT09.png",
+"lines": 4,
+"max_chars": [
+17,
+17,
+18,
+17
+]
+},
+{
+"name": "TUT10",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT10.png",
+"lines": 4,
+"max_chars": [
+18,
+17,
+17,
+18
+]
+},
+{
+"name": "TUT11",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT11.png",
+"lines": 7,
+"max_chars": [
+18,
+19,
+18,
+18,
+17,
+18,
+18
+]
+},
+{
+"name": "TUT12",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT12.png",
+"lines": 7,
+"max_chars": [
+18,
+18,
+17,
+19,
+16,
+17,
+17
+]
+},
+{
+"name": "TUT13",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT13.png",
+"lines": 7,
+"max_chars": [
+18,
+18,
+18,
+17,
+17,
+18,
+17
+]
+},
+{
+"name": "TUT14",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TUT14.png",
+"lines": 7,
+"max_chars": [
+18,
+17,
+17,
+17,
+18,
+17,
+17
+]
+},
+{
+"name": "TU_AR_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_AR_MES00.png",
+"lines": 6,
+"max_chars": [
+16,
+16,
+16,
+16,
+15,
+15
+]
+},
+{
+"name": "TU_AR_MES01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_AR_MES01.png",
+"lines": 11,
+"max_chars": [
+16,
+16,
+15,
+16,
+16,
+14,
+16,
+16,
+16,
+15,
+18
+]
+},
+{
+"name": "TU_AR_MES02",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_AR_MES02.png",
+"lines": 6,
+"max_chars": [
+15,
+15,
+14,
+14,
+15,
+16
+]
+},
+{
+"name": "TU_HO_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_HO_MES00.png",
+"lines": 6,
+"max_chars": [
+15,
+16,
+14,
+16,
+15,
+16
+]
+},
+{
+"name": "TU_IF_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_IF_MES00.png",
+"lines": 12,
+"max_chars": [
+14,
+16,
+16,
+15,
+16,
+15,
+15,
+16,
+16,
+16,
+16,
+16
+]
+},
+{
+"name": "TU_IF_MES01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_IF_MES01.png",
+"lines": 7,
+"max_chars": [
+14,
+16,
+16,
+16,
+15,
+15,
+16
+]
+},
+{
+"name": "TU_IM_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_IM_MES00.png",
+"lines": 9,
+"max_chars": [
+16,
+16,
+15,
+15,
+16,
+15,
+16,
+16,
+16
+]
+},
+{
+"name": "TU_JI_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_JI_MES00.png",
+"lines": 6,
+"max_chars": [
+16,
+16,
+16,
+15,
+14,
+16
+]
+},
+{
+"name": "TU_JI_MES01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_JI_MES01.png",
+"lines": 7,
+"max_chars": [
+16,
+15,
+16,
+16,
+16,
+16,
+15
+]
+},
+{
+"name": "TU_JK_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_JK_MES00.png",
+"lines": 3,
+"max_chars": [
+16,
+15,
+16
+]
+},
+{
+"name": "TU_KK_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_KK_MES00.png",
+"lines": 8,
+"max_chars": [
+15,
+16,
+15,
+16,
+15,
+15,
+16,
+16
+]
+},
+{
+"name": "TU_KY_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_KY_MES00.png",
+"lines": 7,
+"max_chars": [
+16,
+16,
+16,
+15,
+15,
+16,
+16
+]
+},
+{
+"name": "TU_KY_MES01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_KY_MES01.png",
+"lines": 5,
+"max_chars": [
+16,
+16,
+17,
+16,
+16
+]
+},
+{
+"name": "TU_MP_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_MP_MES00.png",
+"lines": 7,
+"max_chars": [
+15,
+16,
+18,
+16,
+16,
+16,
+15
+]
+},
+{
+"name": "TU_MP_MES01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_MP_MES01.png",
+"lines": 6,
+"max_chars": [
+15,
+15,
+15,
+16,
+16,
+16
+]
+},
+{
+"name": "TU_RE_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_RE_MES00.png",
+"lines": 8,
+"max_chars": [
+15,
+15,
+16,
+16,
+16,
+16,
+15,
+16
+]
+},
+{
+"name": "TU_SK_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_SK_MES00.png",
+"lines": 11,
+"max_chars": [
+16,
+15,
+15,
+14,
+16,
+16,
+16,
+14,
+16,
+16,
+16
+]
+},
+{
+"name": "TU_SR_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_SR_MES00.png",
+"lines": 6,
+"max_chars": [
+16,
+16,
+16,
+16,
+16,
+16
+]
+},
+{
+"name": "TU_SR_MES01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_SR_MES01.png",
+"lines": 9,
+"max_chars": [
+16,
+16,
+15,
+15,
+15,
+16,
+16,
+16,
+16
+]
+},
+{
+"name": "TU_SU_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_SU_MES00.png",
+"lines": 4,
+"max_chars": [
+14,
+15,
+16,
+16
+]
+},
+{
+"name": "TU_TL_MES00",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\TU_TL_MES00.png",
+"lines": 10,
+"max_chars": [
+16,
+16,
+16,
+15,
+16,
+16,
+15,
+15,
+16,
+15
+]
+}
+]

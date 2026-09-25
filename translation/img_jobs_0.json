@@ -1,0 +1,543 @@
+[
+{
+"name": "CB_NAGO001",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO001.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO002",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO002.png",
+"lines": 3,
+"max_chars": [
+14,
+14,
+13
+]
+},
+{
+"name": "CB_NAGO003",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO003.png",
+"lines": 3,
+"max_chars": [
+14,
+14,
+13
+]
+},
+{
+"name": "CB_NAGO004",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO004.png",
+"lines": 4,
+"max_chars": [
+14,
+16,
+16,
+13
+]
+},
+{
+"name": "CB_NAGO005",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO005.png",
+"lines": 5,
+"max_chars": [
+14,
+14,
+15,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO006",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO006.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO007",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO007.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO008",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO008.png",
+"lines": 3,
+"max_chars": [
+14,
+15,
+13
+]
+},
+{
+"name": "CB_NAGO009",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO009.png",
+"lines": 3,
+"max_chars": [
+14,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO010",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO010.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO011",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO011.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO012",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO012.png",
+"lines": 3,
+"max_chars": [
+14,
+15,
+14
+]
+},
+{
+"name": "CB_NAGO013",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO013.png",
+"lines": 4,
+"max_chars": [
+14,
+14,
+14,
+14
+]
+},
+{
+"name": "CB_NAGO014",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO014.png",
+"lines": 3,
+"max_chars": [
+14,
+14,
+14
+]
+},
+{
+"name": "CB_NAGO015",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO015.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO016",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO016.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO017",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO017.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO018",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO018.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO019",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO019.png",
+"lines": 4,
+"max_chars": [
+14,
+16,
+14,
+15
+]
+},
+{
+"name": "CB_NAGO020",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO020.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO021",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO021.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO022",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO022.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO023",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO023.png",
+"lines": 3,
+"max_chars": [
+14,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO024",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO024.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO025",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO025.png",
+"lines": 2,
+"max_chars": [
+14,
+16
+]
+},
+{
+"name": "CB_NAGO026",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO026.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO028",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO028.png",
+"lines": 1,
+"max_chars": [
+14
+]
+},
+{
+"name": "CB_NAGO029",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO029.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO030",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO030.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO031",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO031.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO032",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO032.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO033",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO033.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO034",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO034.png",
+"lines": 1,
+"max_chars": [
+14
+]
+},
+{
+"name": "CB_NAGO035",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO035.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO036",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO036.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO037",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO037.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO038",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO038.png",
+"lines": 3,
+"max_chars": [
+14,
+14,
+13
+]
+},
+{
+"name": "CB_NAGO039",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO039.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO040",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO040.png",
+"lines": 3,
+"max_chars": [
+14,
+14,
+13
+]
+},
+{
+"name": "CB_NAGO041",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO041.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO042",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO042.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO043",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO043.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO044",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO044.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO045",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO045.png",
+"lines": 1,
+"max_chars": [
+1
+]
+},
+{
+"name": "CB_NAGO046",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO046.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO047",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO047.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO048",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO048.png",
+"lines": 3,
+"max_chars": [
+14,
+15,
+13
+]
+},
+{
+"name": "CB_NAGO049",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO049.png",
+"lines": 3,
+"max_chars": [
+14,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO050",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO050.png",
+"lines": 3,
+"max_chars": [
+14,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO051",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO051.png",
+"lines": 1,
+"max_chars": [
+13
+]
+},
+{
+"name": "CB_NAGO052",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO052.png",
+"lines": 3,
+"max_chars": [
+14,
+15,
+13
+]
+},
+{
+"name": "CB_NAGO053",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO053.png",
+"lines": 3,
+"max_chars": [
+14,
+14,
+13
+]
+},
+{
+"name": "CB_NAGO054",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO054.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO055",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO055.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO056",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO056.png",
+"lines": 2,
+"max_chars": [
+14,
+14
+]
+},
+{
+"name": "CB_NAGO057",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO057.png",
+"lines": 3,
+"max_chars": [
+14,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO058",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO058.png",
+"lines": 3,
+"max_chars": [
+14,
+16,
+14
+]
+},
+{
+"name": "CB_NAGO059",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO059.png",
+"lines": 2,
+"max_chars": [
+14,
+13
+]
+},
+{
+"name": "CB_NAGO060",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_NAGO060.png",
+"lines": 4,
+"max_chars": [
+14,
+14,
+14,
+16
+]
+}
+]

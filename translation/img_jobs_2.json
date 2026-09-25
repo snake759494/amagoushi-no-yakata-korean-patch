@@ -1,0 +1,754 @@
+[
+{
+"name": "CB_HIORI01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI01.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI02",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI02.png",
+"lines": 4,
+"max_chars": [
+12,
+14,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI03",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI03.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI04",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI04.png",
+"lines": 5,
+"max_chars": [
+12,
+14,
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI05",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI05.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_HIORI06",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI06.png",
+"lines": 5,
+"max_chars": [
+12,
+14,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI07",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI07.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_HIORI08",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI08.png",
+"lines": 4,
+"max_chars": [
+12,
+14,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI09",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI09.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI10",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI10.png",
+"lines": 4,
+"max_chars": [
+12,
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI11",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI11.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI12",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI12.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI13",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI13.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI14",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI14.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI15",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI15.png",
+"lines": 4,
+"max_chars": [
+12,
+14,
+12,
+12
+]
+},
+{
+"name": "CB_HIORI16",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI16.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI17",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI17.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI18",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI18.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI19",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI19.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI20",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI20.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+12,
+12
+]
+},
+{
+"name": "CB_HIORI21",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI21.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI22",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI22.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI23",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI23.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI24",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI24.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI25",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI25.png",
+"lines": 4,
+"max_chars": [
+12,
+12,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI26",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI26.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI27",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI27.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI28",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI28.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI29",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI29.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI30",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI30.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI31",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI31.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI32",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI32.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+12,
+12
+]
+},
+{
+"name": "CB_HIORI33",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI33.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI34",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI34.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI35",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI35.png",
+"lines": 4,
+"max_chars": [
+12,
+14,
+13,
+12
+]
+},
+{
+"name": "CB_HIORI36",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI36.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI37",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI37.png",
+"lines": 4,
+"max_chars": [
+12,
+14,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI38",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI38.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_HIORI39",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI39.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI40",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI40.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI41",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI41.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI42",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI42.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI43",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI43.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_HIORI44",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI44.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_HIORI45",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_HIORI45.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_KRUA18",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KRUA18.png",
+"lines": 1,
+"max_chars": [
+14
+]
+},
+{
+"name": "CB_KURA01",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA01.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+12,
+12
+]
+},
+{
+"name": "CB_KURA02",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA02.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_KURA03",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA03.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_KURA04",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA04.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_KURA05",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA05.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_KURA06",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA06.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_KURA07",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA07.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_KURA08",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA08.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_KURA09",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA09.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+13,
+12
+]
+},
+{
+"name": "CB_KURA10",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA10.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_KURA11",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA11.png",
+"lines": 4,
+"max_chars": [
+12,
+14,
+13,
+12
+]
+},
+{
+"name": "CB_KURA12",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA12.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_KURA13",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA13.png",
+"lines": 4,
+"max_chars": [
+12,
+12,
+13,
+12
+]
+},
+{
+"name": "CB_KURA14",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA14.png",
+"lines": 3,
+"max_chars": [
+12,
+12,
+12
+]
+},
+{
+"name": "CB_KURA15",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA15.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_KURA16",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA16.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_KURA17",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA17.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_KURA18",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA18.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_KURA19",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA19.png",
+"lines": 5,
+"max_chars": [
+12,
+13,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_KURA20",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA20.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_KURA21",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA21.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_KURA22",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA22.png",
+"lines": 2,
+"max_chars": [
+12,
+12
+]
+},
+{
+"name": "CB_KURA23",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA23.png",
+"lines": 3,
+"max_chars": [
+12,
+14,
+12
+]
+},
+{
+"name": "CB_KURA24",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA24.png",
+"lines": 4,
+"max_chars": [
+12,
+13,
+14,
+12
+]
+},
+{
+"name": "CB_KURA25",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA25.png",
+"lines": 5,
+"max_chars": [
+12,
+14,
+12,
+14,
+12
+]
+},
+{
+"name": "CB_KURA26",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA26.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+},
+{
+"name": "CB_KURA27",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA27.png",
+"lines": 3,
+"max_chars": [
+12,
+12,
+12
+]
+},
+{
+"name": "CB_KURA28",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA28.png",
+"lines": 1,
+"max_chars": [
+12
+]
+},
+{
+"name": "CB_KURA29",
+"image": "D:\\psp\\우격자의관\\work\\ocr\\CB_KURA29.png",
+"lines": 3,
+"max_chars": [
+12,
+13,
+12
+]
+}
+]

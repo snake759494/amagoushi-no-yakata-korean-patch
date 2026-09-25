@@ -1,0 +1,33 @@
+﻿# 게임 데이터는 저장소에 넣지 않습니다
+*.iso
+*.ISO
+*.pmf
+*.PMF
+*.cpk
+*.CPK
+*.dns
+*.DNS
+*.bin
+*.BIN
+*.xa
+*.xc
+*.xf
+*.xi
+*.264
+*.wav
+*.at3
+
+# 배포 산출물 / 임시
+*.xdelta
+_repo/
+_scan/
+__pycache__/
+*.pyc
+*.npy
+*.log
+
+*.MPB
+*.TOB
+*.DAT
+*.png
+work/
